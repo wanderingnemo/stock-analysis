@@ -1,0 +1,2047 @@
+20 Microns Ltd.	20MICRONS
+3i Infotech Ltd.	3IINFOTECH
+3M India Ltd.	3MINDIA
+A2Z Maintenance & Engineering Services Ltd.	A2ZMES
+Aafloat Textiles (India) Ltd.	AKAIMPEXBE
+Aanjaneya Lifecare Ltd.	AANJANEYA
+Aarti Drugs Ltd.	AARTIDRUGS
+Aarti Industries Ltd.	AARTIIND
+Aarvee Denims and Exports Ltd.	AARVEEDEN
+Aban Offshore Ltd.	ABAN
+ABB Ltd.	ABB
+Abbott India Ltd.	ABBOTINDIA
+ABC Bearings Ltd.	ANTFRIBEARBE
+ABG Infralogistics Ltd.	ABGHEAVYBE
+ABG Shipyard Ltd.	ABGSHIP
+Abhishek Corporation Ltd.	ABHISHEK
+ACC Ltd.	ACC
+Accel Frontline Ltd.	AFL
+Accelya Kale Solutions Ltd.	ACCELYABE
+ACE Laboratories Ltd.	ACELABBE
+Acropetal Technologies Ltd.	ACROPETAL
+Action Construction Equipment Ltd.	ACE
+Adani Enterprises Ltd.	ADANIENT
+Adani Ports & Special Economic Zone Ltd.	ADANIPORTS
+Adani Power Ltd.	ADANIPOWER
+Adarsh Chemicals & Fertilisers Ltd.	ADARSHCHEMBE
+ADC India Communications Ltd.	KRONECOMM
+ADF Foods Ltd.	ADFFOODS
+Adhunik Metaliks Ltd.	ADHUNIK
+Aditya Birla Chemicals (India) Ltd.	ABCIL
+Aditya Birla Minacs IT Services Ltd.	PSIDATASYS
+Aditya Birla Money Ltd.	BIRLAMONEYBE
+Aditya Birla Nuvo Ltd.	ABIRLANUVO
+Aditya International Ltd.	ADITYAINTL
+Aditya Spinners Ltd.	ADITYASPINBE
+Ador Welding Ltd.	ADORWELD
+Advance Metering Technology Ltd.	AMTLBE
+Advani Hotels & Resorts (India) Ltd.	ADVANIHOTR
+Advanta India Ltd.	ADVANTA
+Aegis Logistics Ltd.	AEGISCHEM
+Aftek Ltd.	AFTEK
+AGC Networks Ltd.	AGCNET
+Agnite Education Ltd.	TELEDATAGL
+Agro Dutch Industries Ltd.	AGRODUTCH
+Agro Tech Foods Ltd.	ATFL
+Ahluwalia Contracts (India) Ltd.	AHLUCONT
+Ahmednagar Forgings Ltd.	AHMEDFORGE
+AI Champdany Industries Ltd.	AICHAMPBE
+AIA Engineering Ltd.	AIAENG
+Aimco Pesticides Ltd.	AIMCOPESTBE
+Ajanta Pharma Ltd.	AJANTPHARM
+Ajmera Realty & Infra India Ltd.	AJMERABE
+Aksh Optifibre Ltd.	AKSHOPTFBR
+Akzo Nobel India Ltd.	AKZOINDIA
+Alchemist Ltd.	ALCHEM
+Alembic Ltd.	ALEMBICLTD
+Alembic Pharmaceuticals Ltd.	APLLTD
+Alfa Laval (India) Ltd.	ALFALAVAL
+Alfred Herbert (India) Ltd.	ALFREDHERBBE
+Alicon Castalloy Ltd.	ALICON
+Alkali Metals Ltd.	ALKALI
+Alkyl Amines Chemicals Ltd.	ALKYLAMINE
+Allahabad Bank	ALBK
+Allcargo Logistics Ltd.	ALLCARGO
+Allied Digital Services Ltd.	ADSL
+Allied Resins & Chemicals Ltd.[Amalgamated]	ALLIEDRESBE
+Allsec Technologies Ltd.	ALLSECBE
+Almondz Global Securities Ltd.	ALMONDZ
+Alok Industries Ltd.	ALOKTEXT
+Alpa Laboratories Ltd.	ALPA
+Alpha Geo (India) Ltd.	ALPHAGEOBE
+Alpine Housing Development Corporation Ltd.	ALPINEHOU
+Alpine Industries Ltd.	ALPINEINDBE
+Alps Industries Ltd.	ALPSINDUS
+Alsa Marine & Harvests Ltd.	ALSAMARINEBE
+Alstom India Ltd.	AIL
+Alstom T&D India Ltd.	ALSTOMTandD
+Amar Remedies Ltd.	AMAR
+Amara Raja Batteries Ltd.	AMARAJABAT
+Amarjothi Spinning Mills Ltd.	AMARJOTHI
+Ambalal Sarabhai Enterprises Ltd.	AMBASARABH
+Ambica Agarbathies & Aroma Industries Ltd.	AMBICAAGAR
+Ambika Cotton Mills Ltd.	AMBIKCO
+Ambuja Cement Eastern Ltd.	MODICEMENTBE
+Ambuja Cements Ltd.	AMBUJACEM
+AMD Industries Ltd.	AMDIND
+Amforge Industries Ltd.	AMFORGEINDBE
+Amit Spinning Industries Ltd.	ASIL
+AML Steel Ltd.	AMLSTEEL
+Amrutanjan Health Care Ltd.	AMRUTANJAN
+Amtek Auto Ltd.	AMTEKAUTO
+Amtek India Ltd.	AMTEKINDIA
+Anant Raj Industries Ltd.	ANANTRAJ
+Andhra Bank	ANDHRABANK
+Andhra Cements Ltd.	ANDHRACEMTBE
+Andhra Petrochemicals Ltd.	ANDHRAPET
+Andhra Pradesh Paper Mills Ltd.	APPAPER
+Andhra Sugars Ltd.	ANDHRSUGAR
+Andrew Yule & Company Ltd.	ANDREWYULEBE
+Company	Code
+ANG Industries Ltd.	ANGIND
+Anik Industries Ltd.	ANIKINDS
+Anil Special Steel Industries Ltd.	ASILINDBE
+Ankur Drugs & Pharma Ltd.	ANKURDRUGSBE
+Ansal Housing & Construction Ltd.	ANSALHSG
+Ansal Properties & Infrastructure Ltd.	ANSALAPI
+Antarctica Ltd.	ANTGRAPHIC
+Apar Industries Ltd.	APARINDS
+Apcotex Industries Ltd.	APCOTEXIND
+Apeejay Tea Ltd.	ASSAMFRONT
+APL Apollo Tubes Ltd.	APLAPOLLO
+Aplab Ltd.	APLAB
+Apollo Hospitals Enterprise Ltd.	APOLLOHOSP
+Apollo Tyres Ltd.	APOLLOTYRE
+Apple Finance Ltd.	APPLEINDBE
+Aptech Ltd.	APTECHT
+Aqua Logistics Ltd.	AQUA
+Aravali Securities & Finance Ltd.	ARAVALISECBE
+Archana Software Ltd.	SSLFINANCE
+Archidply Industries Ltd.	ARCHIDPLY
+Archies Ltd.	ARCHIES
+Arcotech Ltd.	SKSINDBE
+Aries Agro Ltd.	ARIES
+Arihant Cotsyn Ltd.	ARIHANTCOTBE
+Arihant Foundations & Housing Ltd.	ARIHANT
+Arihant Industries Ltd.	ARIHANTINDBE
+Arihant Threads Ltd.	ARIHANTRED
+Aro Granite Industries Ltd.	AROGRANITE
+Arrow Textiles Ltd.	ARROWTEX
+Arshiya International Ltd.	ARSHIYA
+ARSS Infrastructure Projects Ltd.	ARSSINFRABE
+Artson Engineering Ltd.	ARTSONENGGBE
+Aruna Hotels Ltd.	ARUNASUGARBE
+Arvind Ltd.	ARVIND
+Arvind Remedies Ltd.	ARVINDREM
+Asahi India Glass Ltd.	ASAHIINDIA
+Asahi Songwon Colors Ltd.	ASAHISONG
+Ashapura Minechem Ltd.	ASHAPURMINBE
+Ashco Niulab Industries Ltd.	ASHCONIUL
+Ashiana Housing Ltd.	ASHIANA
+Ashima Ltd.	ASHIMASYNBE
+Ashok Alco-Chem Ltd.	ASHOKALCOBE
+Ashok Leyland Ltd.	ASHOKLEY
+Ashoka Buildcon Ltd.	ASHOKA
+Ashram Online.com Ltd.	TATIASKYLNBE
+Asian Electronics Ltd.	ASIANELECBE
+Asian Granito India Ltd.	ASIANTILES
+Asian Hotels (East) Ltd.	AHLEAST
+Asian Hotels (North) Ltd.	ASIANHOTNR
+Asian Hotels (West) Ltd.	AHLWEST
+Asian Paints Ltd.	ASIANPAINT
+Assam Company (India) Ltd.	ASSAMCO
+Associated Alcohols & Breweries Ltd.	ASOCALCHOLBE
+Associated Stone Industries (Kotah) Ltd.	ASOCSTONEBE
+Astec Lifesciences Ltd.	ASTECBE
+Aster Silicates Ltd.	ASTERSILIBE
+Astra Microwave Products Ltd.	ASTRAMICRO
+Astral Poly Technik Ltd.	ASTRAL
+AstraZeneca Pharma India Ltd.	ASTRAZEN
+Atcom Technologies Ltd.	ATCOMBE
+Atlanta Ltd.	ATLANTA
+Atlantic Spinning and Weaving Mills Ltd.	ATLANTSPGBE
+Atlas Copco (India) Ltd.	ATLASCOPCO
+Atlas Cycles (Haryana) Ltd.	ATLASCYCLE
+ATN International Ltd.	ATNINTER
+Atul Ltd.	ATUL
+ATV Projects India Ltd.	ATVPROJBE
+Aurangabad Paper Mills Ltd.	AURANPAPERBE
+Aurionpro Solutions Ltd.	AURIONPRO
+Aurobindo Pharma Ltd.	AUROPHARMA
+Ausom Enterprise Ltd.	AUSOMENT
+Autoline Industries Ltd.	AUTOIND
+Autolite (India) Ltd.	AUTOLITINDBE
+Automobile Corporation Of Goa Ltd.	AUTOCORPBE
+Automotive Axles Ltd.	AUTOAXLES
+Automotive Stampings and Assemblies Ltd.	ASAL
+Autopal Industries Ltd.	AUTOPALINDBE
+Autoriders Finance Ltd.	AUTORIDFIN
+Avanti Feeds Ltd.	AVANTI
+Avery India Ltd.	AVERYBE
+AVT Natural Products Ltd.	AVTNPL
+Axis Bank Ltd.	AXISBANK
+AXIS-IT&T Ltd.	AXIS-ITandT
+Aztecsoft Ltd.[Merged]	AZTECSOFT
+B L Kashyap & Sons Ltd.	BLKASHYAP
+Bafna Pharmaceuticals Ltd.	BAFNAPHARM
+BAG Films & Media Ltd.	BAGFILMS
+Bajaj Auto Ltd.	BAJAJ-AUTO
+Bajaj Corp Ltd.	BAJAJCORP
+Bajaj Electricals Ltd.	BAJAJELEC
+Bajaj Finance Ltd.	BAJFINANCE
+Bajaj Finserv Ltd.	BAJAJFINSV
+Bajaj Hindustan Ltd.	BAJAJHIND
+Bajaj Holdings & Investment Ltd.	BAJAJHLDNG
+Bal Pharma Ltd.	BALPHARMA
+Balaji Amines Ltd.	BALAMINES
+Balaji Distilleries Ltd.[Amalgamated]	BALAJIDIST
+Balaji Industrial Corporation Ltd.	BALAJIIND
+Balaji Telefilms Ltd.	BALAJITELE
+Balasore Alloys Ltd.	ISPATALLOYBE
+Balkrishna Industries Ltd.	BALKRISIND
+Company	Code
+Ballarpur Industries Ltd.	BALLARPUR
+Balmer Lawrie & Company Ltd.	BALMLAWRIE
+Balrampur Chini Mills Ltd.	BALRAMCHIN
+Balurghat Technologies Ltd.	BALURTRANSBE
+Banaras Beads Ltd.	BANARBEADSBE
+Banco Products (India) Ltd.	BANCOINDIA
+Bang Overseas Ltd.	BANG
+Bank of Baroda	BANKBARODA
+Bank of India	BANKINDIA
+Bank of Maharashtra	MAHABANK
+Bank of Rajasthan Ltd.[Merged]	BANKRAJAS
+Bannari Amman Spinning Mills Ltd.	BASMLBE
+Bannari Amman Sugars Ltd.	BANARISUG
+Banswara Syntex Ltd.	BANSWRAS
+Barak Valley Cements Ltd.	BVCLBE
+Bartronics India Ltd.	BARTRONICS
+BASF India Ltd.	BASF
+Bata India Ltd.	BATAINDIA
+Batliboi Ltd.	BATLIBOI
+Bayer Cropscience Ltd.	BAYERCROP
+Beardsell Ltd.	BEARDSELLBE
+Bedmutha Industries Ltd.	BEDMUTHA
+Bell Ceramics Ltd.	BELLCERATL
+Bellary Steels & Alloys Ltd.	BELLARYSTLBE
+BEML Ltd.	BEML
+Bengal Tea and Fabrics Ltd.	BENGALTEABE
+Berger Paints (India) Ltd.	BERGEPAINT
+Best & Crompton Engineering Ltd.	BECREL
+BF Investment Ltd.	BFINVEST
+BF Utilities Ltd.	BFUTILITIE
+BGR Energy Systems Ltd.	BGRENERGY
+Bhagawati Gas Ltd.	BAGWATIGASBE
+Bhagwati Banquets & Hotels Ltd.	BHAGWATIHO
+Bhagyanagar India Ltd.	BHAGYNAGAR
+Bhansali Engineering Polymers Ltd.	BEPL
+Bharat Bijlee Ltd.	BBL
+Bharat Electronics Ltd.	BEL
+Bharat Forge Ltd.	BHARATFORG
+Bharat Gears Ltd.	BHARATGEAR
+Bharat Heavy Electricals Ltd.	BHEL
+Bharat Petroleum Corporation Ltd.	BPCL
+Bharat Rasayan Ltd.	BHARATRAS
+Bharati Shipyard Ltd.	BHARTISHIP
+Bharatiya Global Infomedia Ltd.	BGLOBAL
+Bharti Airtel Ltd.	BHARTIARTL
+Bhartiya International Ltd.	BIL
+Bhor Industries Ltd.	BHORIND
+Bhushan Steel Ltd.	BHUSANSTL
+Bhuwalka Steel Industries Ltd.	BUWALKASTLBE
+Bihar Sponge Iron Ltd.	BIHARSPONGBE
+Bil Energy Systems Ltd.	BILENERGYBE
+Bilpower Ltd.	BILPOWER
+Bimetal Bearings Ltd.	BIMETAL
+Binani Cement Ltd.	BINANICEM
+Binani Industries Ltd.	BINANIIND
+Biocon Ltd.	BIOCON
+Biofil Chemicals & Pharmaceuticals Ltd.	BIOFILCHEM
+Birla Corporation Ltd.	BIRLACORPN
+Birla Cotsyn (India) Ltd.	BIRLACOTBE
+Birla Ericsson Optical Ltd.	BIRLAERIC
+Birla Global Finance Ltd.	BGFL
+Birla Machining & Toolings Ltd.	DAGERFORSTBE
+Birla Power Solutions Ltd.	BIRLAPOWER
+BLB Ltd.	BLBLIMITEDBE
+Bliss GVS Pharma Ltd.	BLISSGVS
+Blow Plast Ltd.[Merged]	BLOWPLAST
+Blue Bird (India) Ltd.	BLUEBIRD
+Blue Blends (India) Ltd.	BLUEBLENDS
+Blue Chip India Ltd.	BLUECHIP
+Blue Coast Hotels Ltd.	BLUECOAST
+Blue Dart Express Ltd.	BLUEDART
+Blue Star Infotech Ltd.	BLUESTINFO
+Blue Star Ltd.	BLUESTARCO
+BOC India Ltd.	BOC
+Bodal Chemicals Ltd.	BODALCHEMBE
+Bodhtree Consulting Ltd.	BODHTREEBE
+Bombay Burmah Trading Corporation Ltd.	BBTC
+Bombay Dyeing & Manufacturing Company Ltd.	BOMDYEING
+Bombay Rayon Fashions Ltd.	BRFL
+Bongaigaon Refinery & Petrochemicals Ltd.[Merged]	BONGAIREFN
+Borosil Glass Works Ltd.	BOROGLASSBE
+Bosch Chassis Systems India Ltd.	BOSCHCHASY
+Bosch Ltd.	BOSCHLTD
+BPL Engineering Ltd.	BPLENGGBE
+BPL Ltd.	BPL
+Brabourne Enterprises Ltd.[Amalgamated]	BRABOURNEBE
+Brandhouse Retails Ltd.	BRANDHOUSE
+Brigade Enterprises Ltd.	BRIGADE
+Bright Brothers Ltd.	BRIGHTBROSBE
+Britannia Industries Ltd.	BRITANNIA
+Broadcast Initiatives Ltd.	BROADCAST
+Brooks Laboratories Ltd.	BROOKS
+BS Ltd.	BSTRANSCOM
+BS Refrigerators Ltd.	BPLREFRIGBE
+BSEL Infrastructure Realty Ltd.	BSELINFRA
+BSI Ltd.	BSIBE
+BSL Ltd.	BSL
+Burnpur Cement Ltd.	BURNPURBE
+C & C Constructions Ltd.	CANDC
+Company	Code
+C Mahendra Exports Ltd.	CMAHENDRA
+Cable Corporation of India Ltd.	CCIBE
+Cadila Healthcare Ltd.	CADILAHC
+Cairn India Ltd.	CAIRN
+California Software Company Ltd.	CALSOFT
+Cambridge Technology Enterprises Ltd.	CTE
+Camphor & Allied Products Ltd.	CAMPALLIEDBE
+Can Fin Homes Ltd.	CANFINHOME
+Canara Bank	CANBK
+Cantabil Retail India Ltd.	CANTABIL
+Capital First Ltd.	FCH
+Caprihans India Ltd.	CAPRIHANS
+Carborundum Universal Ltd.	CARBORUNIV
+Career Point Ltd.	CAREERP
+Carol Info Services Ltd.	CAROLINFO
+Castrol India Ltd.	CASTROL
+CCL Products India Ltd.	CCL
+CDI International Ltd.	COMPACDISCBE
+Ceat Ltd.	CEATLTD
+Ceenik Exports (India) Ltd.	CEENIKEXPOBE
+Celebrity Fashions Ltd.	CELEBRITY
+Celestial Biolabs Ltd.	CELESTIAL
+Central Bank of India	CENTRALBK
+Central India Polyesters Ltd.[Merged]	CIPL
+Centum Electronics Ltd.	CENTUM
+Centurion Bank of Punjab Ltd.	CENTBOP
+Century Enka Ltd.	CENTENKA
+Century Extrusions Ltd.	CENTEXT
+Century Plyboards (I) Ltd.	CENTURYPLY
+Century Textiles & Industries Ltd.	CENTURYTEX
+Cera Sanitaryware Ltd.	CERA
+CESC Ltd.	CESC
+CFL Capital Financial Services Ltd.	CEATFIN
+Chambal Fertilisers & Chemicals Ltd.	CHAMBLFERT
+Champdany Industries Ltd.	CHAMPDANYBE
+Chemfab Alkalies Ltd.	CHEMFALKAL
+Chemplast Sanmar Ltd.	CHEMPLASTBE
+Chennai Petroleum Corporation Ltd.	CHENNPETRO
+Cheslind Textiles Ltd.	CHESLINTEX
+Chettinad Cement Corporation Ltd.	CHETTINAD
+CHI Investments Ltd.[Amalgamated]	CHI
+Choksi Tubes Company Ltd.	CHOKSITUBEBE
+Cholamandalam Investment & Finance Company Ltd.	CHOLAFIN
+Chowgule Steamships Ltd.	CHOWGULSTMBE
+Chromatic India Ltd.	CHROMATIC
+Ciba India Ltd. [Merged]	CIBASPEC
+CIL Nova Petrochemicals Ltd.	CILNOVA
+Cimmco Ltd.	CIMMCO
+Cinemax India Ltd.	CINEMAXIN
+Cinemax Properties Ltd.	CINEPRO
+Cinevista Ltd.	CINEVISTABE
+Cipla Ltd.	CIPLA
+Citurgia Biochemicals Ltd.	CITURGIBIO
+City Union Bank Ltd.	CUB
+Clariant Chemicals (India) Ltd.	CLNINDIA
+Classic Diamonds (India) Ltd.	CLASSICBE
+Clutch Auto Ltd.	CLUTCHAUTO
+CMC Ltd.	CMC
+CMI FPE Ltd.	FLATPRODBE
+Coal India Ltd.	COALINDIA
+Colgate-Palmolive (India) Ltd.	COLPAL
+Color Chips (India) Ltd.	COLORCHIPS
+Commercial Engineers & Body Builders Co Ltd.	CEBBCO
+Compuage Infocom Ltd.	COMPUAGE
+Compucom Software Ltd.	COMPUSOFT
+Compudyne Winfosystems Ltd.	COMPUDYNE
+Compulink Systems Ltd.[Merged]	COMSYS
+Computech International Ltd.	COMPUTECH
+Consolidated Construction Consortium Ltd.	CCCL
+Consolidated Finvest & Holdings Ltd.	CONSOFINVT
+Consortex Karl Doelitzsch (India) Ltd.	APOWERTOOLBE
+Container Corporation of India Ltd.	CONCOR
+Coral Hub Ltd.	CORAL-HUBBE
+Coral India Finance & Housing Ltd.	CORALFINACBE
+Cords Cable Industries Ltd.	CORDSCABLE
+CORE Education & Technologies Ltd.	COREEDUTEC
+Core Healthcare Ltd.	COREPARENTBE
+Coromandel Engineering Company Ltd.	COROENGG
+Coromandel International Ltd.	COROMANDEL
+Corporation Bank	CORPBANK
+Cosmo Films Ltd.	COSMOFILMS
+Country Condo's Ltd.	COUNCODOS
+Cox & Kings Ltd.	COXandKINGS
+Cranes Software International Ltd.	CRANESSOFT
+Creative Eye Ltd.	CREATIVEYEBE
+Crest Animation Studios Ltd.	CRESTANI
+Crew B.O.S Products Ltd.	CREWBOS
+Crisil Ltd.	CRISIL
+Crompton Greaves Ltd.	CROMPGREAV
+Cubex Tubings Ltd.	CUBEXTUB
+Cummins India Ltd.	CUMMINSIND
+Cura Technologies Ltd.	CURATECH
+Cyber Media (India) Ltd.	CYBERMEDIA
+Cybertech Systems & Software Ltd.	CYBERTECH
+D B (International) Stock Brokers Ltd.	DBSTOCKBRO
+D B Realty Ltd.	DBREALTY
+D-Link (India) Ltd.	DLINKINDIA
+Dabur India Ltd.	DABUR
+Daewoo Motors India Ltd.	DCMDAEWOO
+Dai Ichi Karkaria Ltd.	DAICHIKARKBE
+Dalmia Bharat Ltd.	DALMIABEL
+Company	Code
+Dalmia Bharat Sugar and Industries Ltd.	DALMIASUGBE
+Datamatics Global Services Ltd.	DATAMATICS
+Datapro Information Technology Ltd.	DATAPROINFBE
+Datar Switchgear Ltd.	DATARSWICHBT
+DB Corp Ltd.	DBCORP
+DCM Financial Services Ltd.	DCMFINSERV
+DCM Ltd.	DCM
+DCM Shriram Consolidated Ltd.	DCMSRMCONS
+DCM Shriram Industries Ltd.	DCMSRMINDBE
+DCW Ltd.	DCW
+De Nora India Ltd.	DENORA
+Deccan Cements Ltd.	DECCANCE
+Deccan Chronicle Holdings Ltd.	DCHLBE
+Decolight Ceramics Ltd.	DECOLIGHTBE
+Deep Industries Ltd.	DEEPIND
+Deepak Fertilizers & Petrochemicals Corp. Ltd.	DEEPAKFERT
+Deepak Nitrite Ltd.	DEEPAKNTR
+Deepak Spinners Ltd.	DEEPAKSPINBE
+Delta Corp Ltd.	DELTACORP
+Delta Magnets Ltd.	DELTAMAGNTBE
+Den Networks Ltd.	DEN
+Dena Bank	DENABANK
+Denso India Ltd.	DENSO
+Development Credit Bank Ltd.	DCB
+Dewan Housing Finance Corporation Ltd.	DHFL
+Dewan Rubber Industries Ltd.	DEWANRUBBE
+Dewan Tyres Ltd.	DEWANTYREBE
+Dhampur Sugar Mills Ltd.	DHAMPURSUG
+Dhanlaxmi Bank Ltd.	DHANBANK
+Dhanuka Agritech Ltd.	DHANUKA
+Dhanus Technologies Ltd.	DHANUS
+Dharamsi Morarji Chemicals Company Ltd.	DHARAMORARBE
+Dharani Sugars & Chemicals Ltd.	DHARSUGAR
+Dhunseri Investments Ltd.	DHUNINV
+Dhunseri Petrochem & Tea Ltd.	DPTL
+Diamond Power Infrastructure Ltd.	DIAPOWER
+DIC India Ltd.	DICIND
+Digjam Ltd.	DIGJAM
+Dion Global Solutions Ltd.	FORTISFIN
+Disa India Ltd.	GEORGFISCHBE
+Dish TV India Ltd.	DISHTV
+Dishman Pharmaceuticals & Chemicals Ltd	DISHMAN
+Divi's Laboratories Ltd.	DIVISLAB
+DLF Ltd.	DLF
+Dolphin Offshore Enterprises (India) Ltd.	DOLPHINOFF
+Donear Industries Ltd.	DONEAR
+Doon Valley Rice Ltd.	DOONVALLEYBE
+Dot Com Global Ltd.	PRECIMDIAMBE
+DPSC Ltd.	DPSCLTD
+DQ Entertainment (International) Ltd.	DQE
+DR Softech & Industries Ltd.	DRIND
+Dr. Reddy's Laboratories Ltd.	DRREDDY
+Dredging Corporation Of India Ltd.	DREDGECORP
+DS Kulkarni Developers Ltd.	DSKULKARNI
+DSJ Communications Ltd.	DALALSTCOM
+Duncans Industries Ltd.	DUNCANSINDBE
+Dunlop India Ltd.	DUNLOPBE
+Dwarikesh Sugar Industries Ltd.	DWARKESH
+Dynacons Systems & Solutions Ltd.	DSSL
+Dynacons Technologies Ltd.	DYNATECH
+Dynamatic Technologies Ltd.	DYNAMATECHBE
+Eastcoast Steel Ltd.	ESTCSTSTELBE
+Eastern Silk Industries Ltd.	EASTSILK
+Eastern Sugar & Industries Ltd.	EASTSUGIND
+Easun Reyrolle Ltd.	EASUNREYRL
+ECE Industries Ltd.	ECEIND
+eClerx Services Ltd.	ECLERX
+Ecoboard Industries Ltd.	WESTERNBIOBE
+Edelweiss Financial Services Ltd.	EDELWEISS
+Edserv Softsystems Ltd.	EDSERV
+Educomp Solutions Ltd.	EDUCOMP
+Eicher Ltd.	EICHERBE
+Eicher Motors Ltd.	EICHERMOT
+EID Parry (India) Ltd.	EIDPARRY
+EIH Associated Hotels Ltd.	EIHAHOTELS
+EIH Ltd.	EIHOTEL
+Eimco Elecon (India) Ltd.	EIMCOELECO
+EL Forge Ltd.	ELFORGE
+Elantas Beck India Ltd.	DRBECK
+Elbee Services Ltd.	ELBEEBE
+Elder Pharmaceuticals Ltd.	ELDERPHARM
+Elecon Engineering Company Ltd.	ELECON
+Electrex (India) Ltd.	ELECTRXBE
+Electrosteel Castings Ltd.	ELECTCAST
+Electrosteel Steels Ltd.	ESL
+Electrotherm (India) Ltd.	ELECTHERMBE
+Elgi Equipments Ltd.	ELGIUIP
+Elgi Rubber Company Ltd.	ELGIRUBCO
+Elgi Rubber Company Ltd.(Old)	ELGIRUBBER
+Elnet Technologies Ltd.	ELNET
+Elpro International Ltd.	ELPROINTL
+Emami Infrastructure Ltd.	EMAMIINFRA
+Emami Ltd.	EMAMILTD
+Emco Ltd.	EMCO
+Emkay Global Financial Services Ltd.	EMKAY
+Emmbi Polyarns Ltd.	EMMBI
+Empee Distilleries Ltd.	EDL
+Empee Sugars and Chemicals Ltd.	EMPEESUG
+Emtex Industries (India) Ltd.	EMTEXINDBE
+Company	Code
+Energy Development Company Ltd.	ENERGYDEV
+Engineers India Ltd.	ENGINERSIN
+Enkay Texofood Industries Ltd.	ENKTEXFOODBE
+Entegra Ltd.	ENTEGRA
+Entertainment Network (India) Ltd.	ENIL
+Envair Electrodyne Ltd.	KIRLOSELECBE
+Eon Electric Ltd.	EONBE
+Era Infra Engineering Ltd.	ERAINFRA
+Eros International Media Ltd.	EROSMEDIA
+Esab India Ltd.	ESABINDIA
+Escorts Finance Ltd.	ESCORTSFIN
+Escorts Ltd.	ESCORTS
+Eskay Kn'IT (India) Ltd.	SHREEKRPET
+Ess Dee Aluminium Ltd.	ESSDEE
+Essar Oil Ltd.	ESSAROIL
+Essar Ports Ltd.	ESSARPORTS
+Essar Shipping Ltd.	ESSARSHPNG
+Essar Steel Ltd.	ESTL
+Essel Propack Ltd.	ESSELPACK
+Ester Industries Ltd.	ESTER
+ETC Networks Ltd.(Old1)	ETCNETBE
+ETC Networks Ltd.[Amalgamated]	ETC
+ETP Corporation Ltd.	ETPCORP
+Eupharma Laboratories Ltd.	EUPHARMLAB
+Euro Ceramics Ltd.	EUROCERA
+Euro Multivision Ltd.	EUROMULTI
+Eurotex Industries & Exports Ltd.	EUROTEXIND
+Eveready Industries India Ltd.	EVEREADYBE
+Everest Industries Ltd.	EVERESTIND
+Everest Kanto Cylinder Ltd.	EKCBE
+Everonn Education Ltd.	EVERONN
+Evinix Industries Ltd.	EVINIXBE
+Excel Crop Care Ltd.	EXCELCROP
+Excel Industries Ltd.	EXCELINDUS
+Excel Infoways Ltd.	EXCELINFOBE
+Exide Industries Ltd.	EXIDEIND
+Fag Bearings India Ltd.	FAGBEARING
+Falcon Tyres Ltd.	FALCONTYREBE
+Fame India Ltd.	FAMEBE
+Farmax India Ltd.	FARMAXIND
+Faze Three Ltd.	FAZETHREEBE
+FCGL Industries Ltd.	FASTCAPBE
+FCI OEN Connectors Ltd.	OENCONNECT
+FCL Technologies & Products Ltd.	FLEXCHEM
+FCS Software Solutions Ltd.	FCSSOFT
+FDC Ltd.	FDC
+Fedders Lloyd Corporation Ltd.	FEDDERLOYD
+Federal Bank Ltd.	FEDERALBNK
+Federal-Mogul Goetze (India) Ltd.	FMGOETZE
+Ferro Alloys Corporation Ltd.	FERROALLOYBE
+Fertilisers and Chemicals Travancore Ltd.	FACT
+FGP Ltd.	FGPINDBE
+Ficom Organics Ltd.	FICOMORGANBE
+FIEM Industries Ltd.	FIEMIND
+Filatex India Ltd.	FILATEX
+Financial Technologies (India) Ltd.	FINANTECH
+Finolex Cables Ltd.	FINCABLES
+Finolex Industries Ltd.	FINPIPE
+First Leasing Company of India Ltd.	FIRSTLEASE
+First Winner Industries Ltd.	FIRSTWIN
+Firstsource Solutions Ltd.	FSL
+Flex Engineering Ltd.[Merged]	FLEXENGG
+Flexituff International Ltd.	FLEXITUFF
+Flextronics Software Systems Ltd.	FSS
+Forbes & Company Ltd.	FORBESGOK
+Force Motors Ltd.	BAJAJTEMPO
+Fortis Healthcare Ltd.	FORTIS
+Foseco India Ltd.	FOSECOIND
+Four Soft Ltd.	FOURSOFTBE
+Fresenius Kabi Oncology Ltd.	FKONCO
+Fulford (India) Ltd.	FULFORD
+Futura Polyesters Ltd.	INDIANORGBE
+Future Market Networks Ltd.	FMNL
+Future Ventures India Ltd.	FUTUREVENT
+Futuristic Offshore Services & Chemical Ltd.	GANESHANHYBE
+G M Breweries Ltd.	GMBREW
+Gabriel India Ltd.	GABRIEL
+GAIL (India) Ltd.	GAIL
+Galada Power & Telecommunications Ltd.	GALPOWTELBE
+Gallantt Ispat Ltd.	GALLISPAT
+Gallantt Metal Ltd.	GALLANTT
+Gammon India Ltd.	GAMMONIND
+Gammon Infrastructure Projects Ltd.	GAMMNINFRA
+Gandhi Special Tubes Ltd.	GANDHITUBE
+Ganesh Benzoplast Ltd.	GANESHBENZ
+Ganesh Housing Corporation Ltd.	GANESHHOUC
+Gangotri Textile Ltd.	GANGOTRI
+Garden Silk Mills Ltd.	GARDENSILK
+Garware Polyester Ltd.	GARWARPOLYBE
+Garware-Wall Ropes Ltd.	GARWALLROP
+Gateway Distriparks Ltd.	GDL
+Gati Ltd.	GATI
+Gayatri Projects Ltd.	GAYAPROJ
+GE Capital Transportation Financial Services Ltd	SRFFINANCEBE
+GeeCee Ventures Ltd.	GEECEE
+Geekay Exim (India) Ltd.	GEEKAYEXIMBE
+GEI Industrial Systems Ltd.	GEINDSYS
+Gem Spinners India Ltd.	GEMSPINBE
+Gemini Communication Ltd.	GEMINI
+Genesys International Corporation Ltd.	GENESYS
+Genus Power Infrastructures Ltd.	GENUSPOWER
+Company	Code
+Geodesic Ltd.	GEODESIC
+Geojit BNP Paribas Financial Services Ltd.	GEOJITBNPP
+Geometric Ltd.	GEOMETRIC
+GHCL Ltd.	GHCL
+GI Engineering Solutions Ltd.	GISOLUTION
+GIC Housing Finance Ltd.	GICHSGFIN
+Gillanders Arbuthnot & Company Ltd.	GILLANDERS
+Gillette India Ltd.	GILLETTE
+Ginni Filaments Ltd.	GINNIFILA
+Girdharilal Sugar & Allied Industries Ltd.	NARMADASUG
+Gitanjali Gems Ltd.	GITANJALI
+GKB Ophthalmics Ltd.	GKB
+GKW Ltd.	GKWLIMITED
+GlaxoSmithKline Consumer Healthcare Ltd.	GSKCONS
+GlaxoSmithKline Pharmaceuticals Ltd.	GLAXO
+Glenmark Pharmaceuticals Ltd.	GLENMARK
+Global Infrastructure & Technologies Ltd.	MANTRIHSGBE
+Global Offshore Services Ltd.	GLOBOFFS
+Global Vectra Helicorp Ltd.	GLOBALVECT
+Globus Corporation Ltd.	KARUNACAB
+Globus Spirits Ltd.	GLOBUSSPR
+Glodyne Technoserve Ltd.	GLODYNE
+Glory Polyfilms Ltd.	GLORY
+GMR Infrastructure Ltd.	GMRINFRA
+Goa Carbons Ltd.	GOACARBON
+Godavari Fertilizers and Chemicals Ltd.[Merged]	GODAVRFERT
+Godawari Power & Ispat Ltd.	GPIL
+Godfrey Philips India Ltd.	GODFRYPHLP
+Godrej Consumer Products Ltd.	GODREJCP
+Godrej Industries Ltd.	GODREJIND
+Godrej Properties Ltd.	GODREJPROP
+Goenka Diamond & Jewels Ltd.	GOENKA
+Gokaldas Exports Ltd.	GOKEX
+Gokul Refoils & Solvent Ltd.	GOKUL
+Golden Tobacco Ltd.	GOLDENTOBC
+Goldiam International Ltd.	GOLDIAM
+Goldstone Infratech Ltd.	GOLDINFRA
+Goldstone Technologies Ltd.	GOLDTECH
+Gontermann Peipers (India) Ltd.	GONTERPEIPBE
+Goodricke Group Ltd.	GOODRICKE
+Goodyear India Ltd.	GOODYEAR
+Govind Rubber Ltd.	GOVINRUBERBE
+Grabal Alok Impex Ltd.	GRABALALK
+Granules India Ltd.	GRANULES
+Graphite India Ltd.	GRAPHITE
+Grasim Industries Ltd.	GRASIM
+Gravita India Ltd.	GRAVITA
+Great Eastern Shipping Company Ltd.	GESHIP
+Great Offshore Ltd.	GTOFFSHORE
+Greaves Cotton Ltd.	GREAVESCOT
+Green Fire Agri Commodities Ltd.	GREENFIRE
+Greenearth Resources and Projects Ltd.	AUSTRALBE
+Greenply Industries Ltd.	GREENPLY
+Grindwell Norton Ltd.	GRINDWELL
+GRUH Finance Ltd.	GRUH
+GSL (India) Ltd.	GSLBE
+GSL Nova Petrochemicals Ltd.	GSLNOVA
+GSS Infotech Ltd.	GSS
+GTL Infrastructure Ltd.	GTLINFRA
+GTL Ltd.	GTL
+GTN Industries Ltd.	GTNIND
+GTN Textiles Ltd.	GTNTEX
+Gufic BioSciences Ltd.	GUFICBIO
+Gujarat Alkalies & Chemicals Ltd.	GUJALKALI
+Gujarat Ambuja Exports Ltd.	GAEL
+Gujarat Apollo Industries Ltd.	GUJAPOLLO
+Gujarat Borosil Ltd.	GUJBOROSILBE
+Gujarat Cotex Ltd.	GUJCOTEXBE
+Gujarat Cypromet Ltd.	GUJCYPROMBE
+Gujarat Fluorochemicals Ltd.	GUJFLUORO
+Gujarat Gas Company Ltd.	GUJRATGAS
+Gujarat Industries Power Company Ltd.	GIPCL
+Gujarat Lease Financing Ltd.	GLFL
+Gujarat Mineral Development Corporation Ltd.	GMDCLTD
+Gujarat Narmada Valley Fertilizers & Chemicals Ltd.	GNFC
+Gujarat NRE Coke Ltd.	GUJNRECOKE
+Gujarat Optical Communication Ltd.	GUJOPTICALBE
+Gujarat Pipavav Port Ltd.	GPPL
+Gujarat Raffia Industries Ltd.	GUJRAFFIA
+Gujarat Sidhee Cement Ltd.	GUJSIDHCEM
+Gujarat State Fertilizer & Chemicals Ltd.	GSFC
+Gujarat State Financial Corporation	GUJSTATFINBT
+Gujarat State Petronet Ltd.	GSPL
+Gujarat Telephone Cable Ltd.	GUJRATTELEBT
+Gujarat Themis Biosyn Ltd.	GUJTHEMISBE
+Gulf Oil Corporation Ltd.	GULFOILCOR
+GVK Power & Infrastructure Ltd.	GVKPIL
+Gyscoal Alloys Ltd.	GAL
+Halonix Ltd.	HALONIX
+Hanil Era Textiles Ltd.	HANILERA
+Hanung Toys & Textiles Ltd.	HANUNG
+Haria Exports Ltd.	HARIAEXPOBE
+Harig Crankshafts Ltd.	HARIGCRANKBE
+Harita Seating Systems Ltd.	HARITASEAT
+Harrisons Malayalam Ltd.	HARRMALAYA
+Haryana Sheet Glass Ltd.	HARYANSHETBE
+Hathway Cable & Datacom Ltd.	HATHWAY
+Havells India Ltd.	HAVELLS
+Hawkins Cookers Ltd.	HAWKINCOOKBE
+Company	Code
+HB Stockholdings Ltd.	HBSTOCK
+HBL Power Systems Ltd.	HBLPOWER
+HCL Infosystems Ltd	HCL-INSYS
+HCL Technologies Ltd.	HCLTECH
+HDFC Bank Ltd.	HDFCBANK
+Heatshrink Technologies Ltd.	REPLENGINEBE
+HEG Ltd.	HEG
+Heidelberg Cement India Ltd.	HEIDELBERGBE
+Helios and Matheson Information Technology Ltd.	HELIOSMATH
+Herbertsons Ltd.	HERBETSONBT
+Hercules Hoists Ltd.	HERCULES
+Heritage Foods (India) Ltd.	HERITGFOOD
+Hero MotoCorp Ltd.	HEROMOTOCO
+Hexa Tradex Ltd.	HEXATRADEXBE
+Hexaware Technologies Ltd.	HEXAWARE
+Hi Tech Gears Ltd.	HITECHGEAR
+Hikal Ltd.	HIKAL
+HIL Ltd.	HIL
+Hilton Metal Forging Ltd.	HILTON
+Himachal Futuristic Communications Ltd.	HFCL
+Himadri Chemicals & Industries Ltd.	HCIL
+Himalaya Granites Ltd.	HIMGRANITEBE
+Himatsingka Seide Ltd.	HIMATSEIDE
+Hind Industries Ltd.	HINDINDBE
+Hind Rectifiers Ltd.	HIRECT
+Hind Syntex Ltd.	HINDSYNTEXBE
+Hindalco Industries Ltd.	HINDALCO
+Hindoostan Spinning & Weaving Mills Ltd.[Merged]	HINDSPGBE
+Hinduja Foundries Ltd.	HINDUJAFO
+Hinduja Global Solutions Ltd.	HGS
+Hinduja Ventures Ltd.	HINDUJAVEN
+Hindustan Composites Ltd.	HINDCOMPOS
+Hindustan Construction Company Ltd.	HCC
+Hindustan Copper Ltd.	HINDCOPPER
+Hindustan Dorr-Oliver Ltd.	HINDDORROL
+Hindustan Media Ventures Ltd.	HMVL
+Hindustan Motors Ltd.	HINDMOTORS
+Hindustan Oil Exploration Company Ltd.	HINDOILEXP
+Hindustan Organic Chemicals Ltd.	HOCL
+Hindustan Petroleum Corporation Ltd.	HINDPETRO
+Hindustan Power Plus Ltd.	HINPOWPLUS
+Hindustan Tin Works Ltd.	HINDTINWRKBE
+Hindustan Unilever Ltd.	HINDUNILVR
+Hindustan Zinc Ltd.	HINDZINC
+Hindusthan National Glass & Industries Ltd.	HINDNATGLS
+Hira Ferro Alloys Ltd.	HIRAFERRO
+Hitachi Home & Life Solutions Ltd.	HITACHIHOM
+Hitech Plast Ltd.	HITECHPLAS
+HMT Ltd.	HMT
+Honda Siel Power Products Ltd.	HONDAPOWER
+Honeywell Automation India Ltd.	HONAUT
+Horizon Infrastructure Ltd.	HORIZONINF
+Hotel Leela Venture Ltd.	HOTELEELA
+Hotel Rugby Ltd.	HOTELRUGBY
+Hotline Glass Ltd.	HOTLINGLAS
+Housing Development & Infrastructure Ltd.	HDIL
+Housing Development Finance Corporation Ltd.	HDFC
+HOV Services Ltd.	HOVS
+HSBC InvestDirect (India) Ltd.	HINVDIR
+HSIL Ltd.	HSIL
+HT Media Ltd.	HTMEDIA
+Hubtown Ltd.	HUBTOWN
+Hybrid Financial Services Ltd.	MAFATLAFINBE
+Hydro S & S Industries Ltd.	HYDROSandS
+I G Petrochemicals Ltd.	IGPL
+I P Rings Ltd.	IPRINGLTD
+IAG Company Ltd.	INDOASAHIBE
+IBP Company Ltd.	IBP
+ICICI Bank Ltd.	ICICIBANK
+ICICI Premium Mutual Fund Scheme	ICICIPREMBE
+ICRA Ltd.	ICRA
+ICSA-India Ltd.	ICSA
+IDBI Bank Ltd.	IDBI
+Idea Cellular Ltd.	IDEA
+IDFC Ltd.	IDFC
+IFB Agro Industries Ltd.	IFBAGRO
+IFB Industries Ltd.	IFBIND
+IFCI Ltd.	IFCI
+IFGL Refractories Ltd.	IFGLREFRAC
+Igarashi Motors India Ltd.	IGARASHI
+iGATE Global Solutions Ltd.	IGS
+IL&FS Engineering & Construction Company Ltd.	ILandFSENGG
+IL&FS Investment Managers Ltd.	IVC
+IL&FS Transportation Networks Ltd.	ILandFSTRANS
+IMP Powers Ltd.	INDLMETER
+Impex Ferro Tech Ltd.	IMPEXFERRO
+Ind Swift Ltd.	INDSWFTLTD
+Indbank Merchant Banking Services Ltd.	INDBANKBE
+India Cements Ltd.	INDIACEM
+India Foils Ltd.[Amalgamted]	IFLBE
+India Glycols Ltd.	INDIAGLYCO
+India Infoline Ltd.	INDIAINFO
+India Lease Development Ltd.	INDIALEASEBE
+India Motor Parts & Accessories Ltd.	IMPAL
+India Nippon Electricals Ltd.	INDNIPPON
+India Polyfibres Ltd.[Merged]	INDIAPOLYBE
+India Securities Ltd.	INDIASECBE
+India Steel Works Ltd.	ISIBARS
+Indiabulls Financial Services Ltd.	INDIABULLS
+Indiabulls Infrastructure and Power Ltd.	IBIPL
+Indiabulls Power Ltd.	IBPOW
+Company	Code
+Indiabulls Real Estate Ltd.	IBREALEST
+Indiabulls Securities Ltd.	IBSEC
+Indiabulls Wholesale Services Ltd.	IBWSL
+Indian Acrylics Ltd.	INDIANACRYBE
+Indian Aluminium Company Ltd.	INDAL
+Indian Bank	INDIANB
+Indian Card Clothing Company Ltd.	INDIANCARD
+Indian Hotels Company Ltd.	INDHOTEL
+Indian Hume Pipe Company Ltd.	INDIANHUME
+Indian Metals & Ferro Alloys Ltd.	IMFA
+Indian Oil Corporation Ltd.	IOC
+Indian Overseas Bank	IOB
+Indian Petrochemicals Corporation Ltd.	IPCL
+Indian Sucrose Ltd.	OSWALSUGBE
+Indian Terrain Fashions Ltd.	INDTERRAIN
+Indo Biotech Foods Ltd.	INDBIOFOODBE
+Indo Count Industries Ltd.	ICIL
+Indo Gulf Fertilisers Ltd.	IGFLFERT
+Indo Rama Synthetics (India) Ltd.	INDORAMA
+Indo Rama Textiles Ltd.[Merged]	INDORAMTEX
+Indo Tech Transformers Ltd.	INDOTECHBE
+Indo Thai Securities Ltd.	INDOTHAI
+Indoco Remedies Ltd	INDOCO
+Indokem Ltd.	KHATJUNKERBE
+Indosolar Ltd.	INDOSOLAR
+Indowind Energy Ltd.	INDOWIND
+Indraprastha Gas Ltd.	IGL
+Indraprastha Medical Corporation Ltd.	INDRAMEDCO
+Indtradeco Ltd.	INDTRADECOBE
+Indu Nissan Oxo Chemicals Industries Ltd.	INDUNISSANBE
+Indus Fila Ltd.	INDUSFILA
+IndusInd Bank Ltd.	INDUSINDBK
+Industrial Investment Trust Ltd.	IITL
+Infinite Computer Solutions (India) Ltd.	INFINITE
+Info Edge (India) Ltd.	NAUKRI
+Info-Drive Software Ltd.	INFODRIVE
+Infomedia Press Ltd.	INFOMEDIABE
+Infosys Ltd.	INFY
+Infotech Enterprises Ltd.	INFOTECENT
+ING Vysya Bank Ltd.	INGVYSYABK
+Ingersoll-Rand (India) Ltd.	INGERRAND
+Innovative Foods Ltd.	INOVATMARNBE
+Innoventive Industries Ltd.	INNOIND
+Inox Leisure Ltd.	INOXLEISURBE
+Insecticides (India) Ltd.	INSECTICID
+Insilco Ltd.	INSILCO
+Integrated Enterprises (India) Ltd.	INTEGENTBE
+Integrated Finance Company Ltd.	INTEGRFINBE
+International Travel House Ltd.	INTLTRAVHS
+Intrasoft Technologies Ltd.	ISFT
+Inventure Growth & Securities Ltd.	INVENTURE
+IOL Chemicals and Pharmaceuticals Ltd.	IOLCP
+IOL Netcom Ltd.	IOLN
+Ion Exchange (India) Ltd.	IONEXCHANG
+Ipca Laboratories Ltd.	IPCALAB
+IRB Infrastructure Developers Ltd.	IRB
+ISGEC Heavy Engineering Ltd.	SARASIND
+ISMT Ltd.	ISMTLTD
+ITC Ltd.	ITC
+ITD Cementation India Ltd.	ITDCEM
+ITI Ltd.	ITI
+IVP Ltd.	IVP
+IVRCL Assets & Holdings Ltd.	IVRCLAH
+IVRCL Ltd.	IVRCLINFRA
+J B Chemicals & Pharmaceuticals Ltd.	JBCHEPHARM
+J D Orgochem Ltd.	JDORGOCHEM
+J F Laboratories Ltd.	JFLABSBE
+J Kumar Infraprojects Ltd.	JKIL
+Jagatjit Industries Ltd.	JAGAJITINDBE
+Jagran Prakashan Ltd.	JAGRAN
+Jagsonpal Pharmaceuticals Ltd.	JAGSNPHARM
+Jai Balaji Industries Ltd.	JAIBALAJIBE
+Jai Corp Ltd.	JAICORPLTD
+Jai Parabolic Springs Ltd.[Amalgamated]	JAIPARBOLIBE
+Jaihind Projects Ltd.	JAIHINDPRO
+Jain Irrigation Systems Ltd.	JISLJALS
+Jain Studios Ltd.	JAINSTUDIOBE
+Jaiprakash Associates Ltd.	JPASSOCIAT
+Jaiprakash Power Ventures Ltd.	JPPOWER
+Jammu & Kashmir Bank Ltd.	JandKBANK
+Jamna Auto Industries Ltd.	JAMNAAUTO
+Jasch Industries Ltd.	JASCHINDBE
+Jay Bharat Maruti Ltd.	JAYBARMARU
+Jay Shree Tea & Industries Ltd.	JAYSREETEA
+Jayant Agro Organics Ltd.	JAYAGROGN
+Jayaswal Neco Industries Ltd.	JAYNECOIND
+Jaykay Enterprises Ltd.	JKSYNTHETCBE
+Jaypee Hotels Ltd.(Merged)	JAYPEEHOT
+Jaypee Infratech Ltd.	JPINFRATEC
+Jaysynth Dyestuff (India) Ltd.	JAYDYSTUFBE
+JBF Industries Ltd.	JBFIND
+JBM Auto Ltd.	JBMA
+JCT Electronics Ltd.	JCTEL
+JCT Ltd.	JCTBE
+Jenson & Nicholson (India) Ltd.	JENSONICOL
+Jet Airways (India) Ltd.	JETAIRWAYS
+Jeypore Sugar Company Ltd.	JEYPOREBE
+Jhagadia Copper Ltd.	SWILBE
+JHS Svendgaard Laboratories Ltd.	JHS
+Company	Code
+JIK Industries Ltd.	JIKIND
+Jindal Cotex Ltd.	JINDCOT
+Jindal Drilling & Industries Ltd.	JINDRILL
+Jindal Photo Ltd.	JINDALPHOT
+Jindal Poly Films Ltd.	JINDALPOLY
+Jindal Saw Ltd.	JINDALSAW
+Jindal South West Holdings Ltd.	JINDALSWHL
+Jindal Stainless Ltd.	JSL
+Jindal Steel & Power Ltd.	JINDALSTEL
+JK Cement Ltd.	JKCEMENT
+JK Lakshmi Cement Ltd.	JKLAKSHMI
+JK Paper Ltd.	JKPAPER
+JK Pharmachem Ltd.	JKPHARMABE
+JK Tyre & Industries Ltd.	JKTYRE
+JM Financial Ltd.	JMFINANCIL
+JMC Projects (India) Ltd.	JMCPROJECT
+JMT Auto Ltd.	JMTAUTOLTD
+Jocil Ltd.	JOCIL
+Jog Engineering Ltd.	VMJOGENGGBE
+JSW Energy Ltd.	JSWENERGY
+JSW Ispat Steel Ltd.	JSWISPAT
+JSW Steel Ltd.	JSWSTEEL
+Jubilant Foodworks Ltd.	JUBLFOOD
+Jubilant Industries Ltd.	JUBLINDS
+Jubilant Life Sciences Ltd.	JUBILANT
+Jumbo Bags Ltd.	JUMBO
+Jupiter Bioscience Ltd.	JUPITERBE
+JVL Agro Industries Ltd.	JVLAGRO
+Jyothy Laboratories Ltd.	JYOTHYLAB
+Jyoti Structures Ltd.	JYOTISTRUC
+K G Denim Ltd.	KGDENIMBE
+K J International Ltd.	KJINTLBE
+K S Oils Ltd.	KSOILS
+K Sera Sera Ltd.	KSERASERABE
+K-Lifestyle & Industries Ltd.	SHREEKRPOL
+Kabra Extrusion Technik Ltd.	KABRAEXTRU
+Kajaria Ceramics Ltd.	KAJARIACER
+Kakatiya Cement Sugar & Industries Ltd.	KAKATCEM
+Kalindee Rail Nirman (Engineers) Ltd.	KALINDEE
+Kalpataru Power Transmissions Ltd.	KALPATPOWR
+Kalyani Forge Ltd.	KALYANIFRGBE
+Kalyani Investment Company Ltd.	KICL
+Kalyani Steels Ltd.	KSL
+Kamat Hotels (India) Ltd.	KAMATHOTEL
+Kamdhenu Ispat Ltd.	KIL
+Kanani Industries Ltd.	KANANIINDBE
+Kandagiri Spinning Mills Ltd.	KANDAGIRI
+Kanel Industries Ltd.	KANELOILBE
+Kanoria Chemicals & Industries Ltd.	KANORICHEM
+Kansai Nerolac Paints Ltd.	KANSAINER
+Karma Energy Ltd.	KARMAENG
+Karma Energy Ltd.[Amalgamated]	KARMAENGBE
+Karnataka Bank Ltd.	KTKBANK
+Karur KCP Packkagings Ltd.	KARURKCP
+Karur Vysya Bank Ltd.	KARURVYSYA
+Karuturi Global Ltd.	KGL
+Kaushalya Infrastructure Development Corpn.Ltd.	KAUSHALYA
+Kaveri Seed Company Ltd.	KSCL
+Kavveri Telecom Products Ltd.	KAVVERITEL
+KCP Ltd.	KCP
+KCP Sugar & Industries Corporation Ltd.	KCPSUGIND
+KDL Biotech Ltd.	KOPDRUGSBE
+KEC International Ltd.	KEC
+KEI Industries Ltd.	KEI
+Kemrock Industries & Exports Ltd.	KEMROCK
+Kennametal India Ltd.	WIDIA
+Kernex Microsystems (India) Ltd.	KERNEX
+Kesar Enterprises Ltd.	KESARENT
+Kesar Terminals & Infrastructure Ltd.	KTIL
+Kesoram Industries Ltd.	KESORAMIND
+Kewal Kiran Clothing Ltd.	KKCL
+Keynote Corporate Services Ltd.	KEYCORPSER
+Khaitan (India) Ltd.	KHAITANLTD
+Khaitan Electricals Ltd.	KHAITANELE
+Khandwala Securities Ltd.	KHANDSE
+Kilburn Engineering Ltd.	KILBUNENGGBE
+Kilitch Drugs(I) Ltd.	KILITCH
+Kinetic Engineering Ltd.	KINETICENG
+Kinetic Motor Company Ltd.	KINETICMOT
+Kingfisher Airlines Ltd.	KFA
+Kiri Industries Ltd.	KIRIINDUS
+Kirloskar Brothers Investments Ltd.	KBIL
+Kirloskar Brothers Ltd.	KIRLOSBROS
+Kirloskar Electric Company Ltd.	KECL
+Kirloskar Ferrous Industries Ltd.	KIRLOSFERR
+Kirloskar Industries Ltd.	KIRLOSIND
+Kirloskar Investment & Finance Ltd.	KIRLOSINVBE
+Kirloskar Oil Engines Ltd.	KIRLOSENG
+Kirloskar Pneumatic Ltd.	KGKHOSLABE
+Kitex Garments Ltd.	KITEX
+Kitply Industries Ltd.	KITPLYIND
+KJMC Financial Services Ltd.	KJMCFINBE
+KLG Systel Ltd.	KLGSYSTEL
+KLRF Ltd.	KLRFBE
+KM Sugar Mills Ltd.	KMSUGAR
+KND Engineering Technologies Ltd.	KNDENGTECHBE
+KNR Constructions Ltd.	KNRCON
+Kochi Refineries Ltd.(Merged)	COCHINREFN
+Kohinoor Foods Ltd.	KOHINOOR
+Kojam Fininvest Ltd.[Merged]	KOJAMFIN
+Kokuyo Camlin Ltd.	KOKUYOCMLN
+Company	Code
+Kolte-Patil Developers Ltd.	KOLTEPATIL
+Kopran Ltd.	KOPRAN
+Kotak Mahindra Bank Ltd.	KOTAKBANK
+Kothari Industrial Corporation Ltd.	KOTHARINDLBE
+Kothari Petrochemicals Ltd.	KOTHARIPET
+Kothari Products Ltd.	KOTHARIPRO
+Kothari Sugars & Chemicals Ltd.	KOTARISUG
+Koutons Retail India Ltd.	KOUTONSBE
+Kovai Medical Center and Hospital Ltd.	KOVAIBE
+KPIT Cummins Infosystems Ltd.	KPIT
+KPR Mill Ltd.	KPRMILL
+KRBL Ltd.	KRBL
+Krebs Biochemicals & Industries Ltd.	KREBSBIO
+Krishna Engineering Works Ltd.	KRISHNAENG
+Kriti Industries (India) Ltd.	KRITIIND
+KSB Pumps Ltd.	KSBPUMPS
+KSE Ltd	KSE
+KSK Energy Ventures Ltd.	KSK
+Kumaka Industries Ltd.	ASHOKORGBE
+Kwality Dairy (India) Ltd.	KWALITY
+L&T Finance Holdings Ltd.	LandTFH
+La Opala RG Ltd.	LAOPALA
+Labh Construction & Industries Ltd.	LABHCONSTBE
+Lakshmi Electrical Control Systems Ltd.	LAKSELECONBE
+Lakshmi Energy & Foods Ltd.	LAKSHMIEFL
+Lakshmi Finance & Industrial Corporation Ltd.	LAKSHMIFINBE
+Lakshmi Machine Works Ltd.	LAXMIMACH
+Lakshmi Mills Company Ltd.	LAKSHMIMIL
+Lakshmi Precision Screws Ltd.	LAKPRE
+Lakshmi Vilas Bank Ltd.	LAKSHVILAS
+Lanco Industries Ltd.	LANCOIN
+Lanco Infratech Ltd.	LITL
+Landmark Property Development Company Ltd.	LPDCBE
+Larsen & Toubro Ltd.	LT
+LCC Infotech Ltd.	LCCINFOTEC
+LD Textile Industries Ltd.	LDTEXTBE
+LG Balakrishnan & Bros Ltd.	LGBBROSLTD
+LGB Forge Ltd.	LGBFORGE
+Liberty Shoes Ltd.	LIBERTSHOE
+LIC Housing Finance Ltd.	LICHSGFIN
+Lila World Wide Ltd.	VATSMUSC
+LKP Finance Ltd.	LKPMERFINBE
+Lloyd Electric and Engineering Ltd.	LLOYDELENG
+Lloyds Finance Ltd.	LLOYDFIN
+Lloyds Metals & Energy Ltd.	LLOYDMETALBE
+Lloyds Steel Industries Ltd.	LLOYDSTEEL
+LML Ltd.	LML
+Logix Microsystems Ltd.	LOGIXMICRO
+Lok Housing & Constructions Ltd.	LOKHSGBE
+Lokesh Machines Ltd.	LOKESHMACH
+Lords Chloro Alkali Ltd.	MODIALKALIBE
+Lotte India Corporation Ltd.	LOTTEINDIA
+Lotus Eye Care Hospital Ltd.	LOTUSEYE
+Lovable Lingerie Ltd.	LOVABLE
+LT Foods Ltd.	DAAWAT
+Lumax Auto Technologies Ltd.	LUMAXTECH
+Lumax Automotive Systems Ltd.	LUMAXAUTO
+Lumax Industries Ltd.	LUMAXIND
+Lupin Ltd.	LUPIN
+Lyka Labs Ltd.	LYKALABS
+M And B Switchgears Ltd.	MBSWITCHBE
+M M Forgings Ltd.	MMFL
+M P Agro Industries Ltd.	MPAGROFERTBE
+Maan Aluminium Ltd.	MAANALU
+Maars Software International Ltd.	MAARSOFTWBE
+Madhav Marbles & Granites Ltd.	MADHAV
+Madhucon Projects Ltd.	MADHUCON
+Madhur Industries Ltd.	MADHURFOODBE
+Madhusudan Industries Ltd.	MADSUDINDBE
+Madras Aluminium Company Ltd.	MALCO
+Madras Cements Ltd.	MADRASCEM
+Madras Fertilizers Ltd.	MADRASFERT
+Mafatlal Industries Ltd.	MAFATLAINDBE
+Magma Fincorp Ltd.	MAGMA
+Magnum Ventures Ltd.	MAGNUMBE
+Maha Rashtra Apex Corporation Ltd.	MAHAPEXLTD
+Mahanagar Telephone Nigam Ltd.	MTNL
+Maharashtra Scooters Ltd.	MAHSCOOTER
+Maharashtra Seamless Ltd.	MAHSEAMLES
+Mahendra Petrochemicals Ltd.	MAHENDSUITBE
+Mahindra & Mahindra Financial Services Ltd.	MandMFIN
+Mahindra & Mahindra Ltd.	MandM
+Mahindra Forgings Ltd.	MAHINDFORG
+Mahindra Holidays & Resorts India Ltd.	MHRIL
+Mahindra Lifespace Developers Ltd.	MAHLIFE
+Mahindra Ugine Steel Company Ltd.	MAHINDUGIN
+Maikaal Fibres Ltd.	MAIKALFIBRBE
+Maithan Alloys Ltd.	MAITHANALL
+Majestic Auto Ltd.	MAJESAUTO
+Majestic Industries Ltd.	MAJESTINDBE
+Malu Paper Mills Ltd.	MALUPAPER
+Malwa Cotton Spinning Mills Ltd.	MALWACOTT
+Man Industries (India) Ltd.	MANINDS
+Man Infraconstruction Ltd.	MANINFRA
+Manaksia Ltd.	MANAKSIA
+Manali Petrochemicals Ltd.	MANALIPETC
+Manappuram Finance Ltd.	MANAPPURAM
+Mandhana Industries Ltd.	MANDHANA
+Mangalam Cement Ltd.	MANGLMCEM
+Company	Code
+Mangalam Drugs and Organics Ltd.	MANGALAMBE
+Mangalam Timber Products Ltd.	MANGTIMBERBE
+Mangalore Chemicals & Fertilizers Ltd.	MANGCHEFER
+Mangalore Refinery And Petrochemicals Ltd.	MRPL
+Manjeera Constructions Ltd.	MANJEERA
+Manjushree Technopack Ltd.	MANJUSHREE
+Manugraph India Ltd.	MANUGRAPH
+Maral Overseas Ltd.	MARALOVER
+Marg Ltd.	MARG
+Marico Ltd.	MARICO
+Marksans Pharma Ltd.	MARKSANSBE
+Maruti Suzuki India Ltd.	MARUTI
+Mastek Ltd.	MASTEKBE
+Mavi Industries Ltd.	KRISNAFILA
+Mawana Sugars Ltd.	MAWANASUG
+Mawana Sugars Ltd.(Old)	MAWANA
+Max India Ltd.	MAX
+Maxwell Industries Ltd.	MAXWELLBE
+Mayur Uniquoters Ltd.	MAYURUNIQ
+MBL Infrastructures Ltd.	MBLINFRA
+McDowell Holdings Ltd.	MCDHOLDING
+McLeod Russel (India) Ltd.	MCLEODRUSS
+McNally Bharat Engineering Company Ltd.	MBECL
+Medi-Caps Ltd.	MEDICAPSBE
+Megasoft Ltd.	MEGASOFT
+Meghmani Organics Ltd.	MEGH
+Melstar Information Technology Ltd.	MELSTAR
+Mercator Ltd.	MERCATOR
+Merck Ltd.	MERCK
+Metalman Industries Ltd.	METALPIPEBE
+Metkore Alloys & Industries Ltd.	METKORE
+Metrochem Industries Ltd.	METROCHEM
+Metroglobal Ltd.	GLOBABOARDBE
+MIC Electronics Ltd.	MIC
+Micro Inks Ltd.	MICRO
+Micro Technologies (India) Ltd.	MICROTECH
+Microsec Financial Services Ltd.	MICROSEC
+Millennium Beer Industries Ltd.[Amalgamated]	INERTIAINDBE
+Milton Plastics Ltd.	MILTONPLAS
+Minda Corporation Ltd.	MINDACORPBE
+Minda Industries Ltd.	MINDAIND
+MindTree Ltd.	MINDTREE
+MIRC Electronics Ltd.	MIRCELECTR
+Mirza International Ltd.	MIRZAINT
+MMTC Ltd.	MMTC
+Modern Insulators Ltd.	MODINSULATBE
+Modern Malleables Ltd.	MODERNMALBE
+Modi Rubber Ltd.	MODIRUBBER
+Modipon Ltd.	MODIPONBE
+MOIL Ltd.	MOIL
+Mold-Tek Technologies Ltd.	MOLDPLASTBE
+Money Matters Financial Services Ltd.	MMFSL
+Monica Electronics Ltd.	MONICAELECBE
+Monnet Ispat & Energy Ltd.	MONNETISPA
+Monsanto India Ltd.	MONSANTO
+Montari Industries Ltd.	MONTARINDBE
+Morarjee Textiles Ltd.	MORARJEE
+Morepen Laboratories Ltd.	MOREPENLAB
+Moser Baer India Ltd.	MOSERBAER
+Motherson Sumi Systems Ltd.	MOTHERSUMI
+Motilal Oswal Financial Services Ltd.	MOTILALOFS
+Motor & General Finance Ltd.	MOTOGENFIN
+MphasiS Ltd.	MPHASIS
+MPIL Corporation Ltd.	MATHPLATTBE
+MPS Ltd.	MPSLTD
+MRF Ltd.	MRF
+MRO - TEK Ltd.	MRO-TEK
+MSP Steel & Power Ltd.	MSPL
+MT Educare Ltd.	MTEDUCARE
+MTZ Industries Ltd.	METAZINCBE
+Mudra Lifestyle Ltd.	MUDRABE
+Mukand Engineers Ltd.	MUKANDENGG
+Mukand Ltd.	MUKANDLTD
+Mukat Pipes Ltd.	MUKATPIPEBE
+Mukerian Papers Ltd.	MUKERPAPERBE
+Mukta Arts Ltd.	MUKTAARTS
+Multi - Arc India Ltd.	MULTIARCBE
+Multi Commodity Exchange of India Ltd.	MCX
+Munjal Auto Industries Ltd.	MUNJALAU
+Munjal Showa Ltd.	MUNJALSHOW
+Murli Industries Ltd.	MURLIIND
+Murudeshwar Ceramics Ltd.	MURUDCERA
+Murugappa Holdings Ltd.	PARRYAGRO
+Muthoot Finance Ltd.	MUTHOOTFIN
+MVL Industries Ltd.	MVLIND
+MVL Ltd.	MVLBE
+Mylan Laboratories Ltd.	MATRIXLABS
+Mysore Petro Chemicals Ltd.	MYSORPETROBE
+N K Industries Ltd.	NKIND
+Nagarjuna Fertilisers & Chemicals Ltd.(Old)	NAGARFERT
+Nagarjuna Oil Refinery Ltd.	NAGAROIL
+Nagreeka Capital & Infrastructure Ltd.	NAGREEKCAP
+Nagreeka Exports Ltd.	NAGREEKEXP
+Nahar Capital & Financial Services Ltd.	NAHARCAP
+Nahar Industrial Enterprises Ltd.	NAHARINDUS
+Nahar Poly Films Ltd.	NAHARPOLY
+Nahar Spinning Mills Ltd.	NAHARSPING
+Nakoda Ltd.	NAKODATEXBE
+Nalwa Sons Investments Ltd.	NSIL
+Namtech Electronic Devices Ltd.	NAMTECHELE
+Nandan Exim Ltd.	NANDANEXIM
+Company	Code
+Narmada Chematur Petrochemicals Ltd.	NARMDCHEMA
+Narmada Gelatines Ltd.	SHAWGELTINBE
+Natco Pharma Ltd.	NATCOPHARM
+Nath Pulp & Paper Mills Ltd.	NATHPULPBE
+Nath Seeds Ltd.	NATHSEEDBE
+National Aluminium Company Ltd.	NATIONALUM
+National Buildings Construction Corporation Ltd.	NBCC
+National Fertilizers Ltd.	NFL
+National Oxygen Ltd.	NOL
+National Peroxide Ltd.	NATPEROXIDBE
+National Steel and Agro Industries Ltd.	NATNLSTEEL
+National Wind Power Corporation Ltd.	NEPCPAPERBE
+Nava Bharat Ventures Ltd.	NBVENTURES
+Navin Fluorine International Ltd.	NAVINFLUOR
+Navinon Ltd.	INDYESTUFBE
+Navneet Publication (India) Ltd.	NAVNETPUBL
+NCC Ltd.	NCC
+NCL Industries Ltd.	NCLIND
+Nectar Lifesciences Ltd	NECLIFE
+Neha International Ltd.	NEHAINT
+Nelcast Ltd.	NELCAST
+Nelco Ltd.	NELCO
+Neo Corp International Ltd.	NEOCORPBE
+NEPC India Ltd.	NEPCMICONBE
+NEPC Textiles Ltd.	NEPCTEXBE
+Nesco Ltd.	NESCO
+Nestle India Ltd.	NESTLEIND
+Net 4 India Ltd.	NET4
+Netflier Finco Ltd.[Merged]	NETFINCO
+Netvista Information Technology Ltd.	NETVISTAIT
+Network 18 Media & Investments Ltd.	NETWORK18
+Network Ltd.	NETWORKBE
+Neuland Laboratories Ltd.	NEULANDLABBE
+New Delhi Television Ltd.	NDTVBE
+Next Mediaworks Ltd.	NEXTMEDIA
+Neyveli Lignite Corporation Ltd.	NEYVELILIG
+NHPC Ltd.	NHPC
+Nicco Corporation Ltd.	NICCO
+NIIT Ltd.	NIITLTD
+NIIT Technologies Ltd.	NIITTECH
+Nilkamal Ltd.	NILKAMAL
+Nippo Batteries Company Ltd.	NIPPOBATRY
+Nirlon Ltd.	NIRLON
+Nirma Ltd.	NIRMA
+Nissan Copper Ltd.	NCOPPERBE
+Nitco Ltd.	NITCO
+Nitesh Estates Ltd.	NITESHEST
+Nitin Fire Protection Industries Ltd.	NITINFIRE
+Nitin Spinners Ltd.	NITINSPIN
+Nitta Gelatin India Ltd.	KERALACHEM
+Niyati Industries Ltd.	NIYATILEASBE
+NLC Nalco India Ltd.	NALCOCHEMBE
+NMDC Ltd.	NMDC
+NOCIL Ltd.	NOCIL
+Noida Toll Bridge Company Ltd.	NOIDATOLL
+Norben Tea & Exports Ltd.	NORBTEAEXP
+Nova Iron & Steel Ltd.	NOVAIRNSTLBE
+Novartis India Ltd.	NOVARTIND
+Novopan Industries Ltd.	NOVOPANINDBE
+NRB Bearings Ltd.	NRBBEARING
+NRC Ltd.	NRC
+NTPC Ltd.	NTPC
+Nu Tek India Ltd.	NUTEK
+Nucent Estates Ltd.	NUCENTBE
+Nuchem Ltd.	NUCHEMBE
+Nucleus Software Exports Ltd.	NUCLEUS
+Oberoi Realty Ltd.	OBEROIRLTY
+OCL India Ltd.	OCL
+OCL Iron & Steel Ltd.	OISL
+Octav Investments Ltd.[Amalgamated]	OCTAV
+Oil And Natural Gas Corporation Ltd.	ONGC
+Oil Country Tubular Ltd.	OILCOUNTUB
+Oil India Ltd.	OIL
+OM Metals Infraprojects Ltd.	OMMETALS
+Omax Autos Ltd.	OMAXAUTO
+Omaxe Ltd.	OMAXE
+Omkar Speciality Chemicals Ltd.	OMKARCHEM
+Omnitech InfoSolutions Ltd.	OMNITECH
+Onelife Capital Advisors Ltd.	ONELIFECAP
+Onida Savak Ltd.	ONIDASAVAKBE
+OnMobile Global Ltd.	ONMOBILE
+Onward Technologies Ltd.	ONWARDTEC
+Optel Telecommunications Ltd.	OPTELCOMMBE
+Opto Circuits India Ltd.	OPTOCIRCUI
+Oracle Financial Services Software Ltd.	OFSS
+Orbit Corporation Ltd.	ORBITCORP
+Orchid Chemicals & Pharmaceuticals Ltd.	ORCHIDCHEM
+Org Informatics Ltd.	ORGINFO
+Organon (India) Ltd.	INFARINDIA
+Oricon Enterprises Ltd.	ORIENTCONT
+Orient Abrasives Ltd.	ORIENTABRA
+Orient Bell Ltd.	ORIENTBELL
+Orient Green Power Company Ltd.	GREENPOWER
+Orient Information Technology Ltd.[Merged]	ORIENTINFO
+Orient Paper & Industries Ltd.	ORIENTPPR
+Orient Press Ltd.	ORIENTLTD
+Orient Refractories Ltd.	ORIENTREF
+Oriental Bank of Commerce	ORIENTBANK
+Oriental Carbon & Chemicals Ltd.	ORIENTCARBBE
+Company	Code
+Oriental Hotels Ltd.	ORIENTHOT
+Oriental Trimex Ltd.	ORIENTALTL
+Orissa Minerals Development Company Ltd.	ORISSAMINE
+Oswal Agro Mills Ltd.	OSWALAGROBE
+Oswal Green Tech Ltd.	BINDALAGRO
+Oswal Minerals Ltd.	OSWALMIN
+Oswal Spinning & Weaving Mills Ltd.	OSWALSPGBE
+Oudh Sugar Mills Ltd.	OUDHSUG
+Oxides & Specialities Ltd.	HERDIOXIDEBE
+Pacific Industries Ltd.	PACIFICINDBE
+Padmalaya Telefilms Ltd.	PADMALAYATBE
+PAE Ltd.	PAEL
+Page Industries Ltd.	PAGEIND
+Pal Credit & Capital Ltd.	PALCREDITBE
+Pan India Corporation Ltd.	SRGINFOTEC
+Pan India Corporation Ltd.	SRG
+Panacea Biotec Ltd.	PANACEABIO
+Panama Petrochem Ltd.	PANAMAPET
+Panasonic Appliances India Company Ltd.	PANASONIC
+Panasonic AVC Networks India Co. Ltd.	PAVCI
+Panasonic Carbon India Co. Ltd.	PANCARBON
+Panasonic Energy India Company Ltd.	LAKHNNATNL
+Panchmahal Cement Ltd.	PANCHMACEMBE
+Panchmahal Steel Ltd.	PANCHMSTELBE
+Panchsheel Organics Ltd.	PANCHSHEEL
+Panoramic Universal Ltd.	PANORAMUNI
+Pantaloon Retail (India) Ltd.	PANTALOONR
+Panyam Cements & Mineral Industries Ltd.	PANYAMCEMBE
+Paper Products Ltd.	PAPERPROD
+Parabolic Drugs Ltd.	PARABDRUGS
+Paramount Communications Ltd.	PARACABLESBE
+Paramount Printpackaging Ltd.	PARAPRINT
+Paras Petrofils Ltd.	PARASPETROBE
+Parasrampuria Industries Ltd.	PARASINDBE
+Parekh Aluminex Ltd.	PARAL
+Parekh Platinum Ltd.	PAREKHPLATBE
+Parenteral Drugs (India) Ltd.	PDPLBE
+Parrys Sugar Industries Ltd.	PARRYSUGAR
+Parsvnath Developers Ltd.	PARSVNATH
+Pasupati Acrylon Ltd.	PASUPTACRYBE
+Pasupati Fabrics Ltd.	PASUPATI
+Patel Engineering Ltd.	PATELENG
+Patel Integrated Logistics Ltd.	PATINTLOG
+Patheja Forgings & Auto Parts Manufacturers Ltd.	PATHEJAFORBE
+Patni Computer Systems Ltd.	PATNI
+Patspin India Ltd.	PATSPINLTD
+PBA Infrastructure Ltd.	PBAINFRA
+Peacock Industries Ltd.	PEACOCKIND
+Pearl Engineering Polymers Ltd.	PEPLBE
+Pearl Global Industries Ltd.	PGILBE
+Pearl Global Ltd.	PEARLGLOBL
+Pearl Polymers Ltd.	PEARLPOLY
+Peninsula Land Ltd.	PENINLAND
+Pennar Aluminium Company Ltd.	PENNARALUMBE
+Pennar Industries Ltd.	PENIND
+Pentamedia Graphics Ltd.	PENTSFWARE
+Pentasoft Technologies Ltd.[Amalgamated]	PENTACOMMU
+Peria Karamalai Tea & Produce Company Ltd.	PERIATEA
+Permanent Magnets Ltd.	PERMAGNETBE
+Persistent Systems Ltd.	PERSISTENT
+Pertech Computers Ltd.	PCLBE
+Petron Engineering Construction Ltd.	PETRONENGG
+Petronet LNG Ltd.	PETRONET
+Pfizer Ltd.	PFIZER
+PG Electroplast Ltd.	PGEL
+Phil Corporation Ltd.	PHILCORPBE
+Phillips Carbon Black Ltd.	PHILIPCARB
+Phoenix International Ltd.	PHOENXINTL
+Phoenix Mills Ltd.	PHOENIXLTD
+PI Industries Ltd.	PIIND
+Piccadily Sugar and Allied Industries Ltd.	PICCADSUGBE
+Pidilite Industries Ltd.	PIDILITIND
+Pilani Investment and Industries Corporation Ltd.	PILANIINVBE
+Pioneer Distilleries Ltd.	PIONDISTBE
+Pioneer Embroideries Ltd.	PIONEEREMBBE
+Pipavav Defence & Offshore Engineering Company Ltd.	PIPAVAVDOC
+Piramal Enterprises Ltd.	PEL
+Piramal Glass Ltd.	PIRGLASS
+Piramal Life Sciences Ltd.	PIRLIFEBE
+Pitti Laminations Ltd.	PITTILAM
+Plastiblends India Ltd.	PLASTIBLEN
+Plethico Pharmaceuticals Ltd.	PLETHICO
+PNB Gilts Ltd.	PNBGILTS
+Pochiraju Industries Ltd.	POCHIRAJU
+Poddar Pigments Ltd.	PODARPIGMTBE
+Polar Industries Ltd.	POLARIND
+Polaris Financial Technology Ltd.	POLARIS
+Poly Medicure Ltd.	POLYMED
+Polychem Ltd.	POLYCHEM
+Polyplex Corporation Ltd.	POLYPLEX
+Pondy Oxides & Chemicals Ltd.	PONDYOXIDE
+Ponni Sugars (Erode) Ltd.	PONNIERODE
+Power Finance Corporation Ltd.	PFC
+Power Grid Corporation of India Ltd.	POWERGRID
+Pradip Overseas Ltd.	PRADIP
+Prag Bosimi Synthetics Ltd.	PRAGBOSIMIBE
+Praj Industries Ltd.	PRAJIND
+Prajay Engineers Syndicate Ltd.	PRAENGBE
+Prakash Constrowell Ltd.	PRAKASHCONBE
+Prakash Industries Ltd.	PRAKASH
+Prakash Steelage Ltd.	PRAKASHSTL
+Company	Code
+Pratibha Industries Ltd.	PRATIBHA
+Precision Pipes & Profiles Company Ltd.	PPAP
+Precision Wires India Ltd.	PRECWIRE
+Precot Meridian Ltd.	PRECOTBE
+Premier Ltd.	PREMIER
+Premier Polyfilm Ltd.	PREMIERPOL
+Prestige Estates Projects Ltd.	PRESTIGE
+Pricol Ltd.	PRICOL
+Prime Focus Ltd.	PFOCUS
+Prime Securities Ltd.	PRIMESECU
+Prism Cement Ltd.	PRISMCEM
+Prithvi Information Solutions Ltd.	PRITHVIBE
+Prithvi Softech Ltd.	PRITHVISOF
+Pritish Nandy Communications Ltd.	PNCBE
+Priya Ltd.	PRIYADYESBE
+Priyadarsini Ltd.	PSMSPGMILLBE
+Procter & Gamble Hygiene & Healthcare Ltd.	PGHH
+Provogue (India) Ltd	PROVOGE
+Prozone Capital Shopping Centres Ltd.	PROZONECSC
+PSL Ltd.	PSL
+PTC India Financial Services Ltd.	PFS
+PTC India Ltd.	PTC
+PTL Enterprises Ltd.	PTL
+Pudumjee Industries Ltd.	PDUMJEIND
+Pudumjee Pulp & Paper Mills Ltd.	PDUMJEPULP
+Punj Lloyd Ltd.	PUNJLLOYD
+Punjab & Sind Bank	PSB
+Punjab Alkalies & Chemicals Ltd.	PUNALKALIBE
+Punjab Chemicals and Crop Protection Ltd.	PUNJABCHEM
+Punjab Communications Ltd.	PUNJCOMMU
+Punjab National Bank	PNB
+Punjab Tractors Ltd. (Merged)	PUNJABTRAC
+Punjab Woolcombers Ltd.	PUNJABWOOLBE
+Puravankara Projects Ltd.	PURVA
+PVP Ventures Ltd.	PVP
+PVR Ltd.	PVR
+Pyramid Saimira Theatre Ltd.	PSTL
+Quintegra Solutions Ltd.	QUINTEGRA
+R Systems International Ltd.	RSYSTEMS
+Radaan Mediaworks (I) Ltd.	RADAAN
+Radha Madhav Corporation Ltd.	RMCL
+Radico Khaitan Ltd.	RADICO
+Rai Saheb Rekhchand Mohota Spg. & Wvg. Mills Ltd.	RAIREKMOHBE
+Rain Calcining Ltd.	RAINCALCIN
+Rain Commodities Ltd.	RAINCOM
+Rainbow Papers Ltd.	RAINBOWPAP
+Raj Oil Mills Ltd.	RAJOIL
+Raj Rayon Industries Ltd.	RAJRAYON
+Raj Television Network Ltd.	RAJTV
+Rajapalayam Mills Ltd.	RAJPALAYAM
+Rajasthan Petro Synthetics Ltd.	RAJASPETRO
+Rajdarshan Industries Ltd.	ARENTERPBE
+Rajesh Exports Ltd.	RAJESHEXPO
+Rajshree Sugars & Chemicals Ltd.	RAJSREESUG
+Rajvir Industries Ltd.	RAJVIR
+Rallis India Ltd.	RALLIS
+Rama Newsprint and Papers Ltd.	RAMANEWS
+Rama Petrochemicals Ltd.	RAMAPETROBE
+Rama Phosphates Ltd.	RAMAPHOSPBE
+Rama Vision Ltd.	RAMAVISIONBE
+Ramco Industries Ltd.	RAMCOIND
+Ramco Systems Ltd.	RAMCOSYS
+Ramgopal Polytex Ltd.	RAMGOPOLYBE
+Ramkrishna Forgings Ltd	RKFORGE
+Ramky Infrastructure Ltd.	RAMKY
+Ramsarup Industries Ltd.	RAMSARUP
+Rana Sugars Ltd.	RANASUG
+Ranbaxy Laboratories Ltd.	RANBAXY
+Rane (Madras) Ltd	RML
+Rane Brake Lining Ltd.	RBL
+Rane Brake Linings Ltd.(Old)	RANEBRAKE
+Rane Engine Valve Ltd.	RANEENGINE
+Rane Engine Valves Ltd.(Old)	REVL
+Rane Holdings Ltd.	RANEHOLDIN
+Rank Industries Ltd.	RANKAQUABE
+Ranklin Solutions Ltd.	RANKLIN
+Ras Propack Lamipack Ltd.	RASLAMIPAK
+Rashtriya Chemicals & Fertilizers Ltd.	RCF
+Rasoya Proteins Ltd.	RASOYPR
+Ratnamani Metals & Tubes Ltd.	RATNAMANI
+Ravalgaon Sugar Farm Ltd.	RAVALSUGAR
+Ravi Kumar Distilleries Ltd.	RKDLBE
+RayBan Sun Optics India Ltd.	BAUSCHLOMB
+Raymond Ltd.	RAYMOND
+Recron Synthetics Ltd.	RAYMONDSYNBE
+Redington (India) Ltd.	REDINGTON
+Refex Refrigerants Ltd.	REFEX
+Regency Ceramics Ltd.	REGENCERAM
+REI Agro Ltd.	REIAGROLTD
+REI Six Ten Retail Ltd.	REISIXTENBE
+Relaxo Footwears Ltd.	RELAXO
+Reliance Broadcast Network Ltd.	RBNBE
+Reliance Capital Ltd.	RELCAPITAL
+Reliance Capital Ventures Ltd.	RCAPVL
+Reliance Communications Ltd.	RCOM
+Reliance Energy Ventures Ltd.	RENVL
+Reliance Industrial InfraStructure Ltd.	RIIL
+Reliance Industries Ltd.	RELIANCE
+Reliance Infrastructure Ltd.	RELINFRA
+Company	Code
+Reliance MediaWorks Ltd.	RELMEDIA
+Reliance Natural Resources Ltd.	RNRL
+Reliance Petroleum Ltd.(Merged)	RPL
+Reliance Power Ltd.	RPOWER
+Religare Enterprises Ltd.	RELIGARE
+Remi Metals Gujarat Ltd.	REMIMETALBE
+Remsons Industries Ltd.	REMSONSIND
+Renaissance Jewellery Ltd.	RJL
+Repro India Ltd.	REPRO
+Responsive Industries Ltd.	RESPONIND
+Resurgere Mines & Minerals India Ltd.	RMMIL
+Revathi Equipment Ltd.	REVATHI
+Rhodia Specialty Chemicals India Ltd.	ALBRMORARJ
+Rico Auto Industries Ltd.	RICOAUTO
+Rishi Techtex Ltd.	RISHIPACKBE
+Rohit Ferro-Tech Ltd.	ROHITFERRO
+Rollatainers Ltd.	ROLATANBE
+Rolta India Ltd.	ROLTA
+Rossell India Ltd.	ROSSELLIND
+Royal Cushion Vinyl Products Ltd.	ROYALCUSHNBE
+Royal Orchid Hotels Ltd.	ROHLTD
+RPG Cables Ltd.[Merged]	RPGCABLES
+RPG Life Sciences Ltd.	RPGLIFE
+RPG Transmission Ltd.[Merged]	RPGTLTD
+RPP Infra Projects Ltd.	RPPINFRA
+RS Software (India) Ltd.	RSSOFTWARE
+RSWM Ltd.	RSWM
+Rubfila International Ltd.	RUBFILINTLBE
+Ruby Mills Ltd.	RUBYMILLS
+Ruchi Infrastructure Ltd.	RUCHINFRA
+Ruchi Soya Industries Ltd.	RUCHISOYA
+Ruchi Strips & Alloys Ltd.	RUCHISTRIPBE
+Ruchira Papers Ltd.	RUCHIRA
+Rupa & Company Ltd.	RUPA
+Rural Electrification Corporation Ltd.	RECLTD
+Rushil Decor Ltd.	RUSHIL
+S Kumars Nationwide Ltd.	SKUMARSYNF
+S Mobility Ltd.	SMOBILITY
+S&S Industries & Enterprises Ltd.	SandSINDBE
+S. E. Investments Ltd.	SEINV
+S. E. Power Ltd.	SEPOWER
+Sabero Organics Gujarat Ltd.	SABERORGAN
+Sadbhav Engineering Ltd.	SADBHAV
+Sagar Cements Ltd.	SAGCEM
+Sah Petroleums Ltd.	SAHPETRO
+Sai Service Station Ltd.	SAISERVICEBE
+Saksoft Ltd.	SAKSOFT
+Sakthi Finance Ltd.	SAKTHIFINBE
+Sakthi Sugars Ltd.	SAKHTISUG
+Sakuma Exports Ltd.	SAKUMA
+SAL Steel Ltd.	SALSTEEL
+Salona Cotspin Ltd.	SALONACOT
+Salora International Ltd.	SALORAINTL
+Sam Industries Ltd.	SAMINDUS
+Sambandam Spinning Mills Ltd.	SAMBANDAM
+Sambhaav Media Ltd.	SAMBHAAVBE
+Samruddhi Cement Ltd.[Merged]	SAMRUDDHI
+Samtel Color Ltd.	SAMTELBE
+Samtel India Ltd.	SAMTELTDBE
+Sandesh Ltd.	SANDESH
+Sangam (India) Ltd.	SANGAMIND
+Sanghi Industries Ltd.	SANGHIIND
+Sanghi Polyesters Ltd.	SANGHIPOLY
+Sanghvi Forging & Engineering Ltd.	SANGHVIFOR
+Sanghvi Movers Ltd.	SANGHVIMOV
+Sanofi India Ltd.	SANOFI
+Sanwaria Agro Oils Ltd.	SANWARIA
+Sarda Energy & Minerals Ltd.	SARDAEN
+Saregama India Ltd.	SAREGAMA
+Sarla Performance Fibers Ltd.	SARLAPOLY
+Sarthak Industries Ltd.	SARTHAKIND
+Sasken Communication Technologies Ltd.	SASKEN
+Sathavahana Ispat Ltd.	SATHAISPAT
+Satyam Computer Services Ltd.	SATYAMCOMP
+Saurashtra Cements Ltd.	SAURASHCEMBE
+Saurashtra Paper & Board Mills Ltd.	SAURASTPPRBE
+Savera Industries Ltd.	SAVERA
+Savita Oil Technologies Ltd.	SOTL
+Sayaji Hotels Ltd.	SAYAJIHOTLBE
+SB&T International Ltd.	SBandTINTL
+Schneider Electric Infrastructure Ltd.	SCHNEIDER
+Scintilla Software Technology Ltd.	SCINTSOFT
+Seamec Ltd.	SEAMECLTD
+SEL Manufacturing Company Ltd.	SELMCL
+Selan Exploration Technology Ltd.	SELAN
+Serene Industries Ltd.	SERENDYSTFBE
+Servalakshmi Paper Ltd.	SERVALL
+Sesa Goa Ltd.	SESAGOA
+Seshasayee Paper & Boards Ltd.	SESHAPAPER
+Seya Industries Ltd.	SRIMANORGBE
+Sezal Glass Ltd.	SEZAL
+Shaan Interwell (India) Ltd.	SHAANINTERBE
+Shah Alloys Ltd.	SHAHALLOYS
+Shakti Pumps (India) Ltd.	SHAKTIPUMP
+Shalimar Paints Ltd.	SHALPAINTS
+Shamken Multifab Ltd.	SHAMKNFAB
+Shamken Spinners Ltd.	SHAMKNSPIN
+Shanthi Gears Ltd.	SHANTIGEAR
+Shardul Securities Ltd.	SHRIYAMSEC
+Sharon Bio-Medicine Ltd.	SHARONBIO
+Sharp India Ltd.	KALYANISHP
+Company	Code
+Sharyans Resources Ltd.	SHARRESLTD
+Shasun Pharmaceuticals Ltd.	SHASUNPHAR
+Shaw Wallace & Company Ltd. (Merged)	SHAWALLACEBE
+Shekhawati Poly Yarn Ltd.	SPYL
+Shetron Ltd.	SHETRONBE
+Shilpa Medicare Ltd.	SHILPAMED
+Shilpi Cable Technologies Ltd.	SHILPI
+Shipping Corporation of India Ltd.	SCI
+Shirpur Gold Refinery Ltd.	AGEEGOLD
+Shiv-Vani Oil & Gas Exploration Services Ltd.	SHIV-VANI
+Shiva Texyarn Ltd.	SHIVTEXBE
+Shivam Autotech Ltd.	SHIVAMAUTO
+Shoppers Stop Ltd.	SHOPERSTOP
+Shree Ashtavinayak Cine Vision Ltd.	SHREEASHTA
+Shree Cements Ltd.	SHREECEM
+Shree Digvijay Cement Company Ltd.	SHREDIGCEMBE
+Shree Ganesh Forgings Ltd.	SGFL
+Shree Ganesh Jewellery House Ltd.	SGJHL
+Shree Precoated Steels Ltd.	SHPRE
+Shree Rajasthan Syntex Ltd.	SHRERAJSYNBE
+Shree Rama Multi-Tech Ltd.	SHREERAMA
+Shree Renuka Sugars Ltd.	RENUKA
+Shreeji Phosphate Ltd.	SATYAMCEMBE
+Shrenuj & Company Ltd.	SHRENUJ
+Shreyans Industries Ltd.	SHREYANIND
+Shreyas Shipping & Logistics Ltd.	SHREYAS
+Shri Dinesh Mills Ltd.	SHRIDINESHBE
+Shri Lakshmi Cotsyn Ltd.	SHLAKSHMI
+Shri Matre Power & Infrastructure Ltd.	SHAKTIGAS
+Shri Nataraj Ceramic & Chemical Industries Ltd.	SHRINATRAJ
+Shri Ramrupai Balaji Steels Ltd.[Merged]	BALASTEELSBE
+Shriram City Union Finance Ltd.	SHRIRAMCIT
+Shriram EPC Ltd.	SHRIRAMEPC
+Shriram Transport Finance Company Ltd.	SRTRANSFIN
+Shristi Infrastructure Development Corporation Ltd.	PEERABASANBE
+Shukra Jewellery Ltd.	SHUKRADIAMBE
+Shyam Telecom Ltd.	SHYAMTEL
+SI Group - India Ltd.	SIGROUPIND
+Sicagen India Ltd.	SICAGEN
+Sical Logistics Ltd.	SICAL
+Siddhartha Tubes Ltd.	SIDDHATUBEBE
+Siemens Ltd.	SIEMENS
+Signet Industries Ltd.	SIGNETINDBE
+SIL Business Enterprises Ltd.	SNOWCEMIND
+SIL Investments Ltd.	SILINV
+Silicon Valley Infotech Ltd.	PRASGLOFINBE
+Silverline Technologies Ltd.	SILVERLINE
+Simbhaoli Sugars Ltd.	SIMBHSUGAR
+Simplex Castings Ltd.	SIMPLEXCAS
+Simplex Infrastructures Ltd.	SIMPLEXINF
+Simplex Projects Ltd.	SIMPLEX
+Singer India Ltd.	SINGERBE
+Sintex Industries Ltd.	SINTEX
+Siris Ltd.	SIRISBE
+Sirpur Paper Mills Ltd.	SIRPAPERBE
+Sita Shree Food Products Ltd.	SITASHREE
+SITI Cable Network Ltd.	SITICABLEBE
+Siyaram Silk Mills Ltd.	SIYSIL
+SJVN Ltd.	SJVN
+SKF India Ltd.	SKFINDIA
+SKM Egg Products Export (India) Ltd.	SKMEGGPROD
+SKS Microfinance Ltd.	SKSMICROBE
+Skyline NEPC Ltd.	DAMANIAAIRBE
+SM Dyechem Ltd.	SMDYECHEM
+Smartlink Network Systems Ltd.	SMARTLINK
+SML Isuzu Ltd.	SMLISUZU
+SMS Pharmaceuticals Ltd.	SMSPHARMABE
+SMZS Chemicals Ltd.	SMZSCHEM
+SNS Textiles Ltd.	SUZLONFIBRBE
+Sobha Developers Ltd.	SOBHA
+Software Technology Group International Ltd.	SOFTTECHGR
+SOL Pharmaceuticals Ltd.	SOLPHARMABE
+Solar Industries India Ltd.	SOLARINDS
+Solectron EMS India Ltd.[Amalgamated]	SOLEMS
+Som Datt Finance Corporation Ltd.	SOMDUTTFINBE
+Soma Textiles & Industries Ltd.	SOMATEX
+Somani Cement Company Ltd.	SOMANICEMBE
+Somany Ceramics Ltd.	SOMANYCERA
+Sona Koyo Steering Systems Ltd.	SONASTEER
+Sonata Software Ltd.	SONATSOFTWBE
+South Asian Petrochem Ltd.[Merged]	SAPL
+South India Paper Mills Ltd.	SIPAPERBE
+South Indian Bank Ltd.	SOUTHBANK
+Southern Ispat & Energy Ltd.	SOUISPAT
+Southern Petrochemicals Industries Corporation Ltd	SPIC
+Spanco Ltd.	SPANCO
+Spartek Ceramics India Ltd.	SPARTEKBE
+Speciality Restaurants Ltd.	SPECIALITY
+Spectacle Infotek Ltd.	SPECTACLE
+SPEL Semiconductor Ltd.	SPICELEC
+Spentex Industries Ltd.	SPENTEXBE
+Spice Communications Ltd. [Merged]	SPICETELE
+Spicejet Ltd.	MODILUFTBE
+SPL Industries Ltd.	SPLIL
+SPML Infra Ltd.	SPMLINFRA
+Sree Rayalaseema Alkalies & Allied Chemicals Ltd.	SREERAYALKBE
+Sree Rayalaseema Hi-Strength Hypo Ltd.	SRHHYPOLTD
+SREI Infrastructure Finance Ltd.	SREINFRA
+SRF Ltd.	SRF
+Company	Code
+SRHHL Industries Ltd.	SRHHLINDST
+Sri Adhikari Brothers Television Network Ltd.	SABTN
+Sri Chamundeswari Sugars Ltd.	SRICHAMUND
+SRS Ltd.	SRSLTD
+Standard Batteries Ltd.	STANDRDBATBE
+Standard Industries Ltd.	SILBE
+Star Paper Mills Ltd.	STARPAPER
+State Bank Of Bikaner and Jaipur	SBBJ
+State Bank of India	SBIN
+State Bank Of Mysore	MYSOREBANK
+State Bank of Travancore	SBT
+State Trading Corporation Of India Ltd.	STCINDIA
+Steel Authority of India (SAIL) Ltd.	SAIL
+Steel Strips Wheels Ltd.	SSWL
+Steel Tubes of India Ltd.	STEELTUBES
+Steelco Gujarat Ltd.	STEELCOGUJBE
+STEL Holdings Ltd.	STEL
+Sterling Biotech Ltd.	STERLINBIO
+Sterling Holiday Resorts (I) Ltd.	STERLINHOLBE
+Sterling Tools Ltd.	STERTOOLS
+Sterlite Industries (India) Ltd.	STER
+Sterlite Technologies Ltd.	STRTECH
+STI India Ltd.	STINDIA
+STL Global Ltd.	SGL
+Store One Retail India Ltd.	STOREONE
+Strides Arcolab Ltd.	STAR
+Styrolution ABS (India) Ltd.	STYABS
+Suashish Diamonds Ltd.	SUASHDIMON
+Suave Hotels Ltd.	THEBYKE
+Subex Ltd.	SUBEXBE
+Subros Ltd.	SUBROS
+Sudar Industries Ltd.	SUDAR
+Sudarshan Chemical Industries Ltd.	SUDARSCHEM
+Suditi Industries Ltd.	SUDITINDBE
+Sujana Metal Products Ltd.	SMPL
+Sujana Towers Ltd.	SUJANATOW
+Sujana Universal Industries Ltd.	SUJANAUNI
+Sulzer India Ltd.	SULZER
+Suman Motels Ltd.	SUMANMOTELBE
+Sumeet Industries Ltd.	SUMEETINDS
+Summit Securities Ltd.	SUMMITSEC
+Summit Securities Ltd.(Old) [Amalgamated]	SUMMIT
+Sun Pharma Advanced Research Company Ltd.	SPARC
+Sun Pharmaceutical Industries Ltd.	SUNPHARMA
+Sun Polytron Industries Ltd.	KESWANISYNBE
+Sun TV Network Ltd.	SUNTV
+Sundaram Brake Lining Ltd.	SUNDRMBRAK
+Sundaram Clayton Ltd.	SUNCLAYLTD
+Sundaram Finance Ltd.	SUNDARMFIN
+Sundaram Multi Pap Ltd.	SUNDARAM
+Sundram Fasteners Ltd.	SUNDRMFAST
+Sunflag Iron & Steel Company Ltd.	SUNFLAG
+Sunil Hitech Engineers Ltd.	SUNILHITEC
+Sunteck Realty Ltd.	SUNTECK
+Super Sales India Ltd.	SUPER
+Super Spinning Mills Ltd.	SUPERSPINBE
+Suprajit Engineering Ltd.	SUPRAJIT
+Supreme Industries Ltd.	SUPREMEIND
+Supreme Infrastructure India Ltd.	SUPREMEINF
+Supreme Petrochem Ltd.	SUPPETRO
+Supreme Tex Mart Ltd.	SUPREMETEXBE
+Surana Corporation Ltd.	SURANACORP
+Surana Industries Ltd.	SURANAIND
+Surana Telecom and Power Ltd.	SURANATandP
+Surana Ventures Ltd.	SURANAVEL
+Surya Pharmaceuticals Ltd.	SURYAPHARMBE
+Surya Roshni Ltd.	SURYAROSNI
+Suryajyoti Spinning Mills Ltd.	SURYAJYOTI
+Suryalakshmi Cotton Mills Ltd.	SURYALAXMI
+Suryavanshi Spinning Mills Ltd.	SURYVANSPGBE
+Sutlej Textiles & Industries Ltd.	SUTLEJTEX
+Suvarna Aquarfarm & Exports Ltd.	SUVARNAQUABE
+Suven Life Sciences Ltd.	SUVEN
+Suzlon Energy Ltd.	SUZLON
+Svadeshi Mills Company Ltd.	SVADMILLSBE
+SVC Superchem Ltd.	ATVPETROBE
+Swan Energy Ltd.	SWANENERGY
+Swaraj Engines Ltd.	SWARAJENG
+Swelect Energy Systems Ltd.	SWELECTES
+Symphony Ltd.	SYMPHONY
+Syncom Healthcare Ltd.	SYNCOM
+Syndicate Bank	SYNDIBANK
+Synthetics & Chemicals Ltd.	SYNTHCHEMBE
+T T Ltd.	TTLBE
+Tainwala Chemicals & Plastics (India) Ltd.	TAINWALCHM
+Taj GVK Hotels & Resorts Ltd.	TAJGVK
+Take Solutions Ltd.	TAKE
+Taksheel Solutions Ltd.	TAKSHEEL
+Talbros Automotive Components Ltd.	TALBROAUTO
+Talwalkars Better Value Fitness Ltd.	TALWALKARS
+Tamil Nadu Newsprint And Papers Ltd.	TNPL
+Tamil Nadu Telecommunications Ltd.	TNTELEBE
+Tamilnadu Petroproducts Ltd.	TNPETRO
+Taneja Aerospace & Aviation Ltd.	TANEJAEROBE
+Tanfac Industries Ltd.	TANFACIND
+Tanla Solutions Ltd.	TANLA
+Tantia Constructions Ltd.	TANTIACONS
+Tarapur Transformers Ltd.	TARAPUR
+Tarmat Ltd.	TARMATBE
+Tata Chemicals Ltd.	TATACHEM
+Tata Coffee Ltd.	TATACOFFEE
+Company	Code
+Tata Communications Ltd.	TATACOMM
+Tata Consultancy Services Ltd.	TCS
+Tata Elxsi Ltd.	TATAELXSI
+Tata Global Beverages Ltd.	TATAGLOBAL
+Tata Investment Corporation Ltd.	TATAINVEST
+Tata Metaliks Ltd.	TATAMETALI
+Tata Motors Ltd.	TATAMOTORS
+Tata Power Company Ltd.	TATAPOWER
+Tata Sponge Iron Ltd.	TATASPONGE
+Tata Steel Ltd.	TATASTEEL
+Tata Teleservices (Maharashtra) Ltd.	TTML
+Tayo Rolls Ltd.	TATAYODOGA
+TCI Developers Ltd.	TCIDEVELOP
+TCI Finance Ltd.	TCIFINANCE
+TCP Ltd.	TCPLTDBE
+TD Power Systems Ltd.	TDPOWERSYS
+Tech Mahindra Ltd.	TECHM
+Techno Electric & Engineering Company Ltd.	TECHNO
+Techno Electric & Engineering company Ltd. [Merged]	TECHNOELEC
+Technocraft Industries (India) Ltd.	TIILBE
+Technofab Engineering Ltd.	TECHNOFAB
+Tecpro Systems Ltd.	TECPRO
+Teledata Marine Solutions Ltd.	TELEMARINEBE
+Teledata Technology Solutions Ltd.	TELEDATAITBE
+Telephone Cables Ltd.	TELEPHNCAB
+Television Eighteen India Ltd.	TV-18
+Texmaco Infrastructure & Holdings Ltd.	TEXINFRA
+Texmaco Rail & Engineering Ltd.	TEXRAIL
+Texmo Pipes & Products Ltd.	TEXMOPIPES
+Thangamayil Jewellery Ltd.	THANGAMAYL
+Thejo Engineering Ltd.	THEJOSM
+Themis Medicare Ltd.	THEMISMED
+Thermax Ltd.	THERMAX
+Thinksoft Global Services Ltd.	THINKSOFT
+Thiru Arooran Sugars Ltd.	THIRUSUGAR
+Thirumalai Chemicals Ltd.	TIRUMALCHM
+Thomas Cook (India) Ltd.	THOMASCOOK
+Thomas Scott (India) Ltd.	THOMASCOTTBE
+Tide Water Oil Company India Ltd.	TIDEWATER
+Tijaria Polypipes Ltd.	TIJARIABE
+TIL Ltd.	TIL
+Tilak Nagar Industries Ltd.	TI
+Timbor Home Ltd.	TIMBOR
+Time Technoplast Ltd.	TIMETECHNO
+Times Guaranty Ltd.	TIMESGTY
+Timex Group India Ltd.	TIMEXWATCH
+Timken India Ltd.	TIMKEN
+Tinplate Company of India Ltd.	TINPLATE
+Tips Industries Ltd.	TIPSINDLTD
+Titagarh Steels Ltd.[Merged]	TITAGRSTELBE
+Titagarh Wagons Ltd.	TWL
+Titan Industries Ltd.	TITAN
+Todays Writing Instruments Ltd.	TODAYS
+Tokyo Plast International Ltd.	TOKYOPLAST
+Torrent Cables Ltd.	TORRENGUJBE
+Torrent Cables Ltd. (Old)	TORRENTCABBE
+Torrent Pharmaceuticals Ltd.	TORNTPHARM
+Torrent Power AEC Ltd.	TORRENTAEC
+Torrent Power Ltd.	TORNTPOWER
+Torrent Power SEC Ltd.	TORRENTSEC
+Tourism Finance Corporation of India Ltd.	TFCILTD
+TPI India Ltd.	TPINDIABE
+Trans Freight Containers Ltd.	TRANSFREITBE
+Transchem Ltd.	TRANSCHEM
+Transformers & Rectifiers (India) Ltd.	TRIL
+Transpek Industry Ltd.	TRANSPEK
+Transport Corporation of India Ltd.	TCI
+Transwarranty Finance Ltd.	TFL
+Treadsdirect Ltd.	TREADS
+Tree House Education & Accessories Ltd.	TREEHOUSE
+Trent Ltd.	TRENT
+TRF Ltd.	TRF
+Tribhovandas Bhimji Zaveri Ltd.	TBZ
+Tricom India Ltd.	TRICOM
+Trident Ltd.	TRIDENT
+Trigyn Technologies Ltd.	TRIGYNBE
+Trinetra Cement Ltd.	INDOZINCBE
+Triveni Engineering & Industries Ltd.	TRIVENI
+Triveni Glass Ltd.	TRIVENSHETBE
+Triveni Turbine Ltd.	TRITURBINE
+TTK Healthcare Ltd.	TTKHEALTH
+TTK Prestige Ltd.	TTKPRESTIG
+Tube Investments of India Ltd.	TUBEINVEST
+Tulip Telecom Ltd.	TULIP
+Tulsi Extrusions Ltd.	TULSI
+Tulsyan NEC Ltd.	TULSYAN
+Tuticorin Alkali Chemicals & Fertilizers Ltd.	TUTICORALKBE
+TV Today Network Ltd.	TVTODAY
+TV18 Broadcast Ltd.	TV18BRDCST
+TVS Electronics Ltd.	TVSELECT
+TVS Motor Company Ltd.	TVSMOTOR
+TVS Srichakra Ltd.	TVSSRICHAK
+Twentyfirst Century Management Services Ltd.	21STCENMGM
+Twilight Litaka Pharma Ltd.	TWILITAKA
+UB Engineering Ltd.	UBENGG
+Ucal Fuel Systems Ltd.	UCALFUEL
+UCO Bank	UCOBANK
+Uflex Ltd.	UFLEX
+Ugar Sugar Works Ltd.	UGARSUGAR
+Company	Code
+Ultramarine & Pigments Ltd.	ULTRMARINE
+UltraTech Cement Ltd.	ULTRACEMCO
+Umang Dairies Ltd.	JKDAIRYBE
+Unichem Laboratories Ltd.	UNICHEMLAB
+Uniflex Cables Ltd.	UNIFLEX
+Unimin India Ltd.	UNIMINBE
+Union Bank of India	UNIONBANK
+Uniphos Enterprises Ltd.	UNIENTER
+Uniply Industries Ltd	UNIPLY
+Unitech Ltd.	UNITECH
+United Bank of India	UNITEDBNK
+United Breweries (Holdings) Ltd.	UBHOLDINGS
+United Breweries Ltd.	UBL
+United Nilgiri Tea Estates Company Ltd.	UNITEDTEA
+United Phosphorus Ltd.	UNIPHOS
+United Spirits Ltd.	MCDOWELL-N
+United Western Bank Ltd.[Merged]	UNIWESTBNK
+Unity Infraprojects Ltd.	UNITY
+Universal Cables Ltd.	UNIVCABLES
+Uniworth Ltd.	WOOLWORTHBE
+Upper Ganges Sugar & Industries Ltd.	UPERGANGES
+Usha Ispat Ltd.	USHAISPATBE
+Usha Martin Education & Solutions Ltd.	UMESLTDBE
+Usha Martin Ltd.	USHAMART
+Ushdev International Ltd.	USHDEVINTBE
+Usher Agro Ltd.	USHERAGRO
+UTI Mastershare	MASTERSHAR
+Uttam Galva Steels Ltd.	UTTAMSTL
+Uttam Sugar Mills Ltd.	UTTAMSUGAR
+UTV Software Communications Ltd.	UTVSOF
+V B Desai Financial Services Ltd.	VBDESAIFINBE
+V-Guard Industries Ltd.	VGUARD
+V2 Retail Ltd.	V2RETAIL
+Va Tech Wabag Ltd.	WABAG
+Vadilal Industries Ltd.	VADILALIND
+Vaibhav Gems Ltd.	VAIBHAVGEM
+Vakrangee Softwares Ltd.	VAKRANSOFT
+Valecha Engineering Ltd.	VALECHAENG
+Value Industries Ltd.	VALUEIND
+Vardhman Acrylics Ltd.	VARDHACRLC
+Vardhman Holdings Ltd.	VHL
+Vardhman Polytex Ltd.	VARDMNPOLYBE
+Vardhman Special Steels Ltd.	VSSL
+Vardhman Textiles Ltd.	VTL
+Varun Industries Ltd.	VARUNBE
+Varun Shipping Company Ltd.	VARUNSHIP
+Vascon Engineers Ltd.	VASCONBE
+Vaswani Industries Ltd.	VASWANI
+Vatsa Corporation Ltd.	VATSALTDBE
+Vegepro Foods and Feeds Ltd.	VEGPROFOODBE
+Venky's (India) Ltd.	VENKEYS
+Venlon Enterprises Ltd.	VENLONPOLYBE
+Ventura Textiles Ltd.	VTCINDBE
+Venus Remedies Ltd.	VENUSREM
+Venus Sugar Ltd.	VENUSUGARBE
+Vesuvius India Ltd.	VESUVIUS
+Viceroy Hotels Ltd.	VICEROY
+Videocon Industries Ltd.	VIDEOIND
+Vijay Shanthi Builders Ltd.	VIJSHAN
+Vijaya Bank	VIJAYABANK
+Vikas GlobalOne Ltd.	VIKASGLOB
+Vikas WSP Ltd.	VIKASWSPBE
+Vikash Metal & Power Ltd.	VIKASHMET
+Vimta Labs Ltd.	VIMTALABS
+Vinati Organics Ltd.	VINATIORGA
+Vindhya Telelinks Ltd.	VINDHYATELBE
+Vintage Cards & Creations Ltd.	VINCARDS
+Vinyl Chemicals (I) Ltd.	VINYLINDIA
+VIP Industries Ltd.	VIPIND
+Vippy Industries Ltd.	VIPPYSOLVXBE
+Vipul Ltd.	VIPUL
+Viral Syntex Ltd.	VIRALSYNTXBE
+Visa Steel Ltd.	VISASTEEL
+Visaka Industries Ltd.	VISAKAINDBE
+Visesh Infotecnics Ltd.	VISESHINFOBE
+Vishal Exports Overseas Ltd.	VISHALEXPO
+Vision Organics Ltd.	VISIONLTD
+Visu International Ltd.	VISUINTL
+Visualsoft Technologies Ltd.	VISUALSOFT
+Vital Communications Ltd.	VITALCOMMBE
+Vitara Chemicals Ltd.	VITARACHEMBE
+Vivimed Labs Ltd.	VIVIMEDLAB
+VKS Projects Ltd.	VKSPL
+VLS Finance Ltd.	VLSFINANCE
+Voith Paper Fabrics India Ltd.	PORRITSPENBE
+Voltamp Transformers Ltd.	VOLTAMP
+Voltas Ltd.	VOLTAS
+VST Industries Ltd.	VSTIND
+VST Tillers Tractors Ltd.	VSTTILLERS
+VTM Ltd.	VTMLTD
+VTX Industries Ltd.	VTXIND
+Vulcan Engineers Ltd.	VULCANENGBE
+VXL Instruments Ltd.	VXLINSTR
+W S Industries (India) Ltd.	WSI
+WABCO India Ltd.	WABCOINDIA
+Wadala Commodities Ltd.	GFL
+Walchandnagar Industries Ltd.	WALCHANNAG
+Wanbury Ltd.	WANBURYBE
+Warren Tea Ltd.	WARRENTEA
+Wartsila India Ltd.	WARTSILA
+Waterbase Ltd.	WATERBASEBT
+Company	Code
+Websol Energy Systems Ltd.	WEBELSOLARBE
+Weizmann Forex Ltd.	WEIZFOREX
+Weizmann Forex Ltd.[Amalgamated]	WEIZFOREXBE
+Weizmann Ltd.	WEIZMANIND
+Wellman Incandescent India Ltd.	WELMANINCABE
+Wellwin Industry Ltd.	WELLWININD
+Welspun Corp Ltd.	WELCORP
+Welspun Global Brands Ltd.	WELGLOBBE
+Welspun India Ltd.	WELSPUNIND
+Welspun Investments & Commercials Ltd.	WELINV
+Welspun Projects Ltd.	WELPROJ
+Wendt India Ltd.	WENDT
+West Coast Paper Mills Ltd.	WSTCSTPAPR
+Wheels India Ltd.	WHEELS
+Whirlpool of India Ltd.	WHIRLPOOL
+Willard India Ltd.	WILLARDLTDBE
+Williamson Magor & Company Ltd.	WILLAMAGOR
+Williamson Tea Assam Ltd.	GEORGWILIMBE
+Wim Plast Ltd.	WIMPLAST
+Windsor Machines Ltd.	WINDMACHIN
+Winsome Diamonds and Jewellery Ltd.	WINSOMEDJ
+Winsome Yarns Ltd.	WINSOME
+Wipro Ltd.	WIPRO
+Wisec Global Ltd.	WESTINDSECBE
+Wockhardt Ltd.	WOCKPHARMABE
+Wopolin Plastics Ltd.	WOPOLIN
+Wyeth Ltd.	WYETH
