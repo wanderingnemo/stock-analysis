@@ -158,4 +158,4 @@ LOGGING = {
 CRAWL_DATA_URL = "http://nseindia.com/live_market/dynaContent/live_watch/get_quote/getHistoricalData.jsp?symbol=%(symbol)s&fromDate=%(from_date)s&toDate=%(to_date)s&datePeriod=%(date_period)s"
 
 RESOURCES_COMPANY_LIST = os.path.abspath(os.path.join(os.path.dirname(__file__),
-                                         "../../resources/companies.txt"))
+                                         "../resources/companies.txt"))
